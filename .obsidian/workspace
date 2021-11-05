@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "e943f73400e6a7e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "230896ec4eb98969",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computing/DevOps/Kubernetes/API Server.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aafeaca4af79222e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6c28784571db9b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "191c1abac7d652fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ce34b677e342c0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mooc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bed1aea361e3c94e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c71bdcfcb6d094b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223
+  },
+  "right": {
+    "id": "9f96f3ede1d4e568",
+    "type": "split",
+    "children": [
+      {
+        "id": "90016926aab56e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98455f846d58d364",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computing/DevOps/Kubernetes/API Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a2bb6b222fe9151a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computing/DevOps/Kubernetes/API Server.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "aceacec9c03991e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d355b26653fa3e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computing/DevOps/Kubernetes/API Server.md"
+              }
+            }
+          },
+          {
+            "id": "69139ef6ba01516c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257,
+    "collapsed": true
+  },
+  "active": "230896ec4eb98969",
+  "lastOpenFiles": [
+    "Computing/DevOps/Kubernetes/API Server.md",
+    "Computing/DevOps/Kubernetes/Borg.md",
+    "README.md",
+    "Computing/History/OSs/Unix.md",
+    "Computing/History/OSs/Linux.md",
+    "Computing/History/Hardware/NASA.md",
+    "Computing/History/Hardware/IBM.md",
+    "Computing/Data Science/Data Science Apps with Python and Streamlit - Full Course.md",
+    "Computing/DevOps/Cloud Native.md",
+    "Computing/Languages/Assembler/ARM/References.md"
+  ]
+}

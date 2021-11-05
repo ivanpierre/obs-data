@@ -1,0 +1,29 @@
+{
+  "searches": [
+    {
+      "tags": [
+        "#google"
+      ],
+      "query": "https://www.google.com/search?&q={{query}}",
+      "name": "Google",
+      "encode": true
+    },
+    {
+      "tags": [
+        "#wikipedia"
+      ],
+      "query": "https://en.wikipedia.org/wiki/Special:Search/{{query}}",
+      "name": "Wikipedia",
+      "encode": true
+    },
+    {
+      "name": "YouTube",
+      "query": "https://www.youtube.com/results?search_query=/{{query}}",
+      "tags": [
+        "#youtube"
+      ],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}

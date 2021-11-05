@@ -1,0 +1,13 @@
+# RBAC
+
+## Role-Based Access Control (RBAC) Overview
+
+RBAC is a security design that restricts access to valuable resources based on the role the user holds, hence the name role-based. To understand the importance and the need of having [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) policies in place, let’s consider a system that doesn’t use it. Let’s say that you have an HR management solution, but the only security access measure used is that users must authenticate themselves through a username and a password. Having provided their credentials, users gain full access to every module in the system (recruitment, training, staff performance, salaries, etc.). A slightly more secure system will differentiate between regular user access and “admin” access, with the latter providing potentially destructive privileges. For example, ordinary users cannot delete a module from the system, whereas an administrator can. But still, users without admin access can read and modify the module’s data regardless of whether their current job entails doing this.
+
+If you worked as a Linux administrator for any length of time, you appreciate the importance of having a security system that implements a security matrix of access and authority. In the old days of Linux and UNIX, you could either be a “normal” user with minimal access to the system resources, or you can have “root” access. Root access virtually gives you full control over the machine that you can accidentally bring the whole system down. Needless to say that if an intruder could gain access to this root account, your entire system is at high risk. Accordingly, RBAC systems were introduced.
+
+In a system that uses RBAC, there is minimal mention of the “superuser” or the administrator who has access to everything. Instead, there’s more reference to the access level, the role, and the privilege. Even administrators can be categorized based on their job requirements. So, backup administrators should have full access to the tools that they use to do full, incremental, and differential backups. But they shouldn’t be able to stop the webserver or change the system’s date and time, for example.
+
+# Kubernetes Implementation Of RBAC
+
+Now that you know what RBAC is and why it needs to be used in any computer system that has valuable resources let’s see how [[Kubernetes]] implements it. But before we can discuss RBAC in Kubernetes, we need to create a user for testing.
