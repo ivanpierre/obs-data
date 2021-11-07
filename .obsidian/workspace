@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/DevOps/Kubernetes/API Server.md",
-            "mode": "preview"
+            "file": "Computing/DevOps/Video.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/API Server.md",
+                "file": "Computing/DevOps/Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/API Server.md",
+                "file": "Computing/DevOps/Video.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/API Server.md"
+                "file": "Computing/DevOps/Video.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "230896ec4eb98969",
   "lastOpenFiles": [
-    "Computing/DevOps/Kubernetes/API Server.md",
-    "Computing/DevOps/Kubernetes/Borg.md",
-    "README.md",
-    "Computing/History/OSs/Unix.md",
-    "Computing/History/OSs/Linux.md",
-    "Computing/History/Hardware/NASA.md",
-    "Computing/History/Hardware/IBM.md",
-    "Computing/Data Science/Data Science Apps with Python and Streamlit - Full Course.md",
-    "Computing/DevOps/Cloud Native.md",
-    "Computing/Languages/Assembler/ARM/References.md"
+    "Computing/DevOps/Video.md",
+    "Computing/DevOps/Kubernetes/Videos.md",
+    "Computing/DevOps/Podcasters.md",
+    "Computing/DevOps/Network/Videos.md",
+    "Computing/Hardware/RaspBerry Pi/Videos.md",
+    "Computing/DevOps/Cours.md",
+    "Computing/DevOps/DevOps.md",
+    "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md",
+    "Computing/DevOps/Cloud/Cloud Native.md",
+    "Computing/DevOps/Network/Free CCNA.md"
   ]
 }
