@@ -32,6 +32,12 @@ installing my “FREE” cloud phone system (AWS and 3CX)
 
 [installing my “FREE” cloud phone system (AWS and 3CX) - YouTube](https://www.youtube.com/watch?v=n_1wX7kKx7k)
 
+How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding)
+
 [How to Setup a Raspberry Pi LEARNING Desktop (Linux, Hacking, Coding) - YouTube](https://www.youtube.com/watch?v=vbaJcRxASo0)
+
+Raspberry Pi 4 with 8GB Starter Kit from Canakit Review
+
+[Raspberry Pi 4 with 8GB Starter Kit from Canakit Review - YouTube](https://www.youtube.com/watch?v=2nR06HRpWoY)
 
 #video 

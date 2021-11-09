@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "230896ec4eb98969",
+        "id": "91e9ab75a218b432",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/DevOps/Video.md",
-            "mode": "source"
+            "file": "Computing/Hardware/RaspBerry Pi/OSs.md",
+            "mode": "preview"
           }
         }
       }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "c71bdcfcb6d094b4",
+            "id": "7891b7994c0c0d54",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223
+    "width": 218
   },
   "right": {
     "id": "9f96f3ede1d4e568",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Video.md",
+                "file": "Computing/Hardware/RaspBerry Pi/OSs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Video.md",
+                "file": "Computing/Hardware/RaspBerry Pi/OSs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Video.md"
+                "file": "Computing/Hardware/RaspBerry Pi/OSs.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "230896ec4eb98969",
+  "active": "91e9ab75a218b432",
   "lastOpenFiles": [
-    "Computing/DevOps/Video.md",
-    "Computing/DevOps/Kubernetes/Videos.md",
-    "Computing/DevOps/Podcasters.md",
-    "Computing/DevOps/Network/Videos.md",
-    "Computing/Hardware/RaspBerry Pi/Videos.md",
-    "Computing/DevOps/Cours.md",
-    "Computing/DevOps/DevOps.md",
-    "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md",
-    "Computing/DevOps/Cloud/Cloud Native.md",
-    "Computing/DevOps/Network/Free CCNA.md"
+    "Computing/Hardware/RaspBerry Pi/OSs.md",
+    "Computing/Hardware/RaspBerry Pi/Pi zero/Hardware.md",
+    "Computing/AI/Video.md",
+    "media/Prometheus_architecture.png",
+    "media/The_Functional_Programming_Triad_of_Map,_Filter_and_Fold.jpg",
+    "media/Rocket.svg",
+    "media/No_alternative_text_description_for_this_image.jpg",
+    "README.md",
+    "the-fp-triad-of-map-filter-and-fold-211101153345.md",
+    "YouTube to dispatch.md"
   ]
 }
