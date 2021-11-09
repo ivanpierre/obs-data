@@ -21,7 +21,7 @@ Graduated projects:
 -   [Prometheus](https://prometheus.io/) for monitoring
 -   [Envoy](https://github.com/envoyproxy/envoy) for service mesh
 -   [CoreDNS](https://coredns.io/) for service discovery
--   [containerd](http://containerd.io/) for [[Containers]] runtime
+-   [containerd](http://containerd.io/) for [[Computing/DevOps/Containers/Containers]] runtime
 -   [Fluentd](http://www.fluentd.org/) for logging
 -   [Harbor](https://goharbor.io/) for registry
 -   [Helm](https://www.helm.sh/) for package management
@@ -32,7 +32,7 @@ Graduated projects:
 
 Incubating projects:
 
--   [CRI-O](https://cri-o.io/) for [[Containers]] runtime
+-   [CRI-O](https://cri-o.io/) for [[Computing/DevOps/Containers/Containers]] runtime
 -   [Linkerd](https://linkerd.io/) for service mesh
 -   [Contour](https://projectcontour.io/) for ingress
 -   [etcd](https://github.com/etcd-io) for key/value store
@@ -45,9 +45,9 @@ Incubating projects:
 -   [Open Policy Agent](https://www.openpolicyagent.org/) for policy
 -   And many [more](https://www.cncf.io/projects/).
 
-There are many projects in the CNCF [Sandbox](https://www.cncf.io/sandbox-projects/) geared towards metrics, monitoring, identity, scripting, serverless, nodeless, edge, expecting to achieve Incubating and possibly Graduated status. While many active projects are preparing for takeoff, others are being [archived](https://www.cncf.io/archived-projects/) once they become less active. The first archived project is the [rkt](https://github.com/rkt/rkt) [[Containers]] runtime. 
+There are many projects in the CNCF [Sandbox](https://www.cncf.io/sandbox-projects/) geared towards metrics, monitoring, identity, scripting, serverless, nodeless, edge, expecting to achieve Incubating and possibly Graduated status. While many active projects are preparing for takeoff, others are being [archived](https://www.cncf.io/archived-projects/) once they become less active. The first archived project is the [rkt](https://github.com/rkt/rkt) [[Computing/DevOps/Containers/Containers]] runtime. 
 
-The projects under CNCF cover the entire lifecycle of a [[Cloud Native]] application, from its execution using [[Containers]] runtimes, to its monitoring and logging. This is very important to meet the goals of CNCF.
+The projects under CNCF cover the entire lifecycle of a [[Cloud Native]] application, from its execution using [[Computing/DevOps/Containers/Containers]] runtimes, to its monitoring and logging. This is very important to meet the goals of CNCF.
 
 ## CNCF and Kubernetes
 

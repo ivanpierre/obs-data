@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91e9ab75a218b432",
+        "id": "fdcda1237e346cf6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computing/Hardware/RaspBerry Pi/OSs.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Hardware/RaspBerry Pi/OSs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Hardware/RaspBerry Pi/OSs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computing/Hardware/RaspBerry Pi/OSs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,17 +137,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "91e9ab75a218b432",
+  "active": "fdcda1237e346cf6",
   "lastOpenFiles": [
-    "Computing/Hardware/RaspBerry Pi/OSs.md",
-    "Computing/Hardware/RaspBerry Pi/Pi zero/Hardware.md",
-    "Computing/AI/Video.md",
-    "media/Prometheus_architecture.png",
-    "media/The_Functional_Programming_Triad_of_Map,_Filter_and_Fold.jpg",
+    "Musique/Theory.md",
     "media/Rocket.svg",
-    "media/No_alternative_text_description_for_this_image.jpg",
-    "README.md",
-    "the-fp-triad-of-map-filter-and-fold-211101153345.md",
-    "YouTube to dispatch.md"
+    "Computing/AI/History.md",
+    "Computing/Services/Containers/Containers.md",
+    "Computing/Services/Containers/My Containers.md",
+    "Computing/Services/Git/My Gits.md",
+    "Computing/Services/Git/GitHub/Videos.md",
+    "Computing/DevOps/Kubernetes OS/Kubernetes OS.md",
+    "Computing/DevOps/Kubernetes/API Server.md",
+    "Computing/DevOps/Kubernetes/k3s/Videos.md"
   ]
 }

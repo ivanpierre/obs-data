@@ -6,9 +6,9 @@ With enterprises containerizing their applications and moving them to the [[Clou
 
 Although not exhaustive, the list below provides a few different [[Container Orchestration]] tools and services available today:
 
--   **Amazon Elastic [[Containers]] Service**  
+-   **Amazon Elastic [[Computing/DevOps/Containers/Containers]] Service**  
     [Amazon Elastic Container Service](https://aws.amazon.com/ecs/) (ECS) is a hosted service provided by [Amazon Web Services](https://aws.amazon.com/) (AWS) to run [[Docker]] containers at scale on its infrastructure.
--   **Azure [[Containers]] Instances**  
+-   **Azure [[Computing/DevOps/Containers/Containers]] Instances**  
     [Azure Container Instance](https://azure.microsoft.com/en-us/services/container-instances/) (ACI) is a basic [[Container Orchestration]] service provided by [Microsoft Azure](https://azure.microsoft.com/en-us/).
 -   **Azure Service Fabric**  
     [Azure Service Fabric](https://azure.microsoft.com/en-us/services/service-fabric/) is an open source [[Container orchestrators]] provided by [Microsoft Azure](https://azure.microsoft.com/en-us/).
@@ -17,15 +17,15 @@ Although not exhaustive, the list below provides a few different [[Container Orc
 -   **Marathon**  
     [Marathon](https://mesosphere.github.io/marathon/) is a framework to run containers at scale on [Apache Mesos](https://mesos.apache.org/).
 -   **Nomad**  
-    [Nomad](https://www.nomadproject.io/) is the [[Containers]] and workload orchestrator provided by [HashiCorp](https://www.hashicorp.com/).
+    [Nomad](https://www.nomadproject.io/) is the [[Computing/DevOps/Containers/Containers]] and workload orchestrator provided by [HashiCorp](https://www.hashicorp.com/).
 -   **[[Docker]] Swarm**  
-    [Docker Swarm](https://docs.docker.com/engine/swarm/) is a [[Containers]] orchestrator provided by [Docker, Inc](https://www.docker.com/). It is part of [Docker Engine](https://docs.docker.com/engine/).
+    [Docker Swarm](https://docs.docker.com/engine/swarm/) is a [[Computing/DevOps/Containers/Containers]] orchestrator provided by [Docker, Inc](https://www.docker.com/). It is part of [Docker Engine](https://docs.docker.com/engine/).
 
 ## Why Use Container Orchestrators?
 
 Although we can manually maintain a couple of containers or write scripts to manage the lifecycle of dozens of containers, orchestrators make things much easier for operators especially when it comes to managing hundreds and thousands of containers running on a global infrastructure.
 
-Most [[Containers]] orchestrators can:
+Most [[Computing/DevOps/Containers/Containers]] orchestrators can:
 
 -   Group hosts together while creating a [[Cluster]]
 -   Schedule containers to run on hosts in the [[Cluster]] based on resources availability

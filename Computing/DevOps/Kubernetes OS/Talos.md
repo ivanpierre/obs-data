@@ -1,5 +1,5 @@
 # Talos
-Talos is a [[Containers]] optimized Linux distro; a reimagining of Linux for distributed systems such as Kubernetes. Designed to be as minimal as possible while still maintaining practicality. For these reasons, Talos has a number of features unique to it:
+Talos is a [[Computing/DevOps/Containers/Containers]] optimized Linux distro; a reimagining of Linux for distributed systems such as Kubernetes. Designed to be as minimal as possible while still maintaining practicality. For these reasons, Talos has a number of features unique to it:
 
 -   it is immutable
 -   it is atomic
@@ -8,7 +8,7 @@ Talos is a [[Containers]] optimized Linux distro; a reimagining of Linux for dis
 -   it is secure by default
 -   it is managed via a single declarative configuration file and gRPC API
 
-Talos can be deployed on [[Containers]], cloud, virtualized, and bare metal platforms.
+Talos can be deployed on [[Computing/DevOps/Containers/Containers]], cloud, virtualized, and bare metal platforms.
 
 
 ## Sites

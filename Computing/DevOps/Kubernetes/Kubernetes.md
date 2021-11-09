@@ -5,7 +5,7 @@ According to the [Kubernetes](https://kubernetes.io/) website,
 
 **Kubernetes** comes from the Greek word **κυβερνήτης**, which means _helmsman_ or _ship pilot_. With this analogy in mind, we can think of Kubernetes as the pilot on a ship of containers.
 
-Kubernetes is highly inspired by the Google [[Borg]] system, a [[Containers]] and workload orchestrator for its global operations for more than a decade. It is an open source project written in the Go language and licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Kubernetes is highly inspired by the Google [[Borg]] system, a [[Computing/DevOps/Containers/Containers]] and workload orchestrator for its global operations for more than a decade. It is an open source project written in the Go language and licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 Kubernetes was started by Google and, with its v1.0 release in July 2015, Google donated it to the [[Cloud Native Computing Foundation]] (CNCF). 
 
@@ -21,7 +21,7 @@ It groups containers that make up an application into logical units for easy man
 Site: [Kubernetes](https://kubernetes.io/)
 Doc: [Learn Kubernetes Basics | Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 Blog: [Kubernetes Blog | Kubernetes](https://kubernetes.io/blog/)
-GitHub: [GitHub - kubernetes/kubernetes: Production-Grade [[Containers]] Scheduling and Management](https://github.com/kubernetes/kubernetes)
+GitHub: [GitHub - kubernetes/kubernetes: Production-Grade [[Computing/DevOps/Containers/Containers]] Scheduling and Management](https://github.com/kubernetes/kubernetes)
 
  ## Kubernetes Features I
  
