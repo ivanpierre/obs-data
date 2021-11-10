@@ -7,8 +7,11 @@
         "id": "fdcda1237e346cf6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Musique/Podcasters.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Musique/Podcasters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Musique/Podcasters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Musique/Podcasters.md"
+              }
             }
           },
           {
@@ -139,15 +146,15 @@
   },
   "active": "fdcda1237e346cf6",
   "lastOpenFiles": [
+    "Musique/Podcasters.md",
+    "Computing/AI/Cours/Videos.md",
+    "Computing/Hardware/RaspBerry Pi/Videos.md",
+    "Computing/DevOps/Video.md",
+    "Musique/Theory/Harmony/Videos.md",
     "Musique/Theory.md",
     "media/Rocket.svg",
     "Computing/AI/History.md",
     "Computing/Services/Containers/Containers.md",
-    "Computing/Services/Containers/My Containers.md",
-    "Computing/Services/Git/My Gits.md",
-    "Computing/Services/Git/GitHub/Videos.md",
-    "Computing/DevOps/Kubernetes OS/Kubernetes OS.md",
-    "Computing/DevOps/Kubernetes/API Server.md",
-    "Computing/DevOps/Kubernetes/k3s/Videos.md"
+    "Computing/Services/Containers/My Containers.md"
   ]
 }

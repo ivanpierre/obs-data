@@ -40,4 +40,8 @@ Raspberry Pi 4 with 8GB Starter Kit from Canakit Review
 
 [Raspberry Pi 4 with 8GB Starter Kit from Canakit Review - YouTube](https://www.youtube.com/watch?v=2nR06HRpWoY)
 
+Raspberry Pi Running 3 OSes Simultaneously - ESXi Arm Edition - YouTube
+
+[Raspberry Pi Running 3 OSes Simultaneously - ESXi Arm Edition - YouTube](https://www.youtube.com/watch?v=pgRelDkCbGU&list=PLxLxbi4e2mYHa8PR8E0G4btq-MWxiDvOJ&index=3)
+
 #video 
