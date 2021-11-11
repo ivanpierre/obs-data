@@ -11,3 +11,10 @@ August 2021 Online Meetup - Rancher Desktop: Open Source Kubernetes on the Deskt
 Intro to K3s Online Training: Lightweight Kubernetes
 
 [Intro to K3s Online Training: Lightweight Kubernetes - YouTube](https://www.youtube.com/watch?v=vRjk3r9fwFo&list=TLPQMDkxMTIwMjFiw01HSNmXWQ&index=2)
+
+Intro to k3s Lightweight Kubernetes Online training
+
+[Intro to k3s Lightweight Kubernetes Online training - YouTube](https://www.youtube.com/watch?v=FrGpJNI8na4)
+
+
+

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fdcda1237e346cf6",
+        "id": "2f1fc73032a0c068",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Musique/Podcasters.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -144,17 +144,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "fdcda1237e346cf6",
+  "active": "2f1fc73032a0c068",
   "lastOpenFiles": [
     "Musique/Podcasters.md",
-    "Computing/AI/Cours/Videos.md",
-    "Computing/Hardware/RaspBerry Pi/Videos.md",
-    "Computing/DevOps/Video.md",
-    "Musique/Theory/Harmony/Videos.md",
-    "Musique/Theory.md",
-    "media/Rocket.svg",
-    "Computing/AI/History.md",
-    "Computing/Services/Containers/Containers.md",
-    "Computing/Services/Containers/My Containers.md"
+    "Computing/OS/Linux/Cours.md",
+    "Computing/OS/Linux/ArchLinux/Install.md",
+    "Computing/Services/Distributed Web/IPFS.md",
+    "Computing/Services/Git/GitHub/GitHub.md",
+    "Computing/Languages/Clojure/Macros.md",
+    "Musique/Theory/Accoustics/Pythagore.md",
+    "Computing/Languages/GNU/Command.md",
+    "Computing/DevOps/Kubernetes/k3s/Videos.md",
+    "Computing/History/Hardware/IBM.md"
   ]
 }
