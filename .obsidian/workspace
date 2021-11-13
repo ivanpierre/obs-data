@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Musique/Podcasters.md",
+            "file": "Computing/OS/Linux/NIX/Guix/Guix.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Musique/Podcasters.md",
+                "file": "Computing/OS/Linux/NIX/Guix/Guix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Musique/Podcasters.md",
+                "file": "Computing/OS/Linux/NIX/Guix/Guix.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Podcasters.md"
+                "file": "Computing/OS/Linux/NIX/Guix/Guix.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "2f1fc73032a0c068",
   "lastOpenFiles": [
-    "Musique/Podcasters.md",
-    "Computing/OS/Linux/Cours.md",
-    "Computing/OS/Linux/ArchLinux/Install.md",
-    "Computing/Services/Distributed Web/IPFS.md",
-    "Computing/Services/Git/GitHub/GitHub.md",
-    "Computing/Languages/Clojure/Macros.md",
-    "Musique/Theory/Accoustics/Pythagore.md",
-    "Computing/Languages/GNU/Command.md",
-    "Computing/DevOps/Kubernetes/k3s/Videos.md",
-    "Computing/History/Hardware/IBM.md"
+    "Computing/OS/Linux/NIX/Guix/Guix.md",
+    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
+    "Computing/OS/Linux/NIX/NixOS/Articles.md",
+    "Computing/OS/Linux/NIX/Videos.md",
+    "Computing/OS/Linux/NIX/Guix/Video.md",
+    "Computing/OS/Linux/NIX/NixOS/Videos.md",
+    "Computing/OS/Linux/Videos.md",
+    "Various.md",
+    "Computing/DevOps/Containers/Docker/Videos.md",
+    "Computing/DevOps/Containers/Docker/Docker.md"
   ]
 }

@@ -25,7 +25,12 @@
     "VMware",
     "orchestrator",
     "Permalink",
-    "customizable"
+    "customizable",
+    "ESXi",
+    "MyVWware",
+    "iso",
+    "cpu",
+    "nb"
   ],
   "showUnsupportedFiles": true,
   "promptDelete": false,
