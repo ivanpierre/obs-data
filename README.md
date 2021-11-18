@@ -1,2 +1,5 @@
 # obs-data
-Personal obsidian data
+This is my personal obsidian registry
+Just to keep track of my trip across internet.
+
+The whole is completely shareable and reusable.

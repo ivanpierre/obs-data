@@ -30,7 +30,9 @@
     "MyVWware",
     "iso",
     "cpu",
-    "nb"
+    "nb",
+    "virtualize",
+    "Proxmox"
   ],
   "showUnsupportedFiles": true,
   "promptDelete": false,

@@ -5,3 +5,6 @@
 - AWESOME!! Running VMware ESXi 7 on a Mac Mini [Host setup guide]
 
 [AWESOME!! Running VMware ESXi 7 on a Mac Mini [Host setup guide] - YouTube](https://www.youtube.com/watch?v=1ekS-tH_-o8)
+- Bare Metal ESXi and First Virtual Machine Install
+
+[Bare Metal ESXi and First Virtual Machine Install - YouTube](https://www.youtube.com/watch?v=r3EDlvfQAsw)

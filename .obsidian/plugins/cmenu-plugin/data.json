@@ -45,6 +45,11 @@
       "id": "cmenu-plugin:editor:toggle-numbered-list",
       "name": "cMenu: Toggle numbered list",
       "icon": "number-list-glyph"
+    },
+    {
+      "id": "editor:toggle-bullet-list",
+      "name": "Toggle bullet list",
+      "icon": "bullet-list-glyph"
     }
   ],
   "appendMethod": "workspace",
