@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "b7cb21aae584af8c",
   "lastOpenFiles": [
+    "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
+    "Computing/OS/Linux/NIX/NixOS/Tools/Hydra.md",
+    "Computing/OS/Linux/Tools/play anime.md",
+    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
+    "Computing/Services/Communication/Matrix.md",
     "README.md",
     "Untitled.md",
     "Computing/DevOps/Kubernetes/The Kubernetes Handbook.md",
     "Computing/OS/Linux/NIX/NixOS/Overlays.md",
-    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
-    "Computing/OS/Linux/NIX/NixOS/Videos.md",
-    "Computing/OS/Linux/Videos.md",
-    "Computing/OS/Linux/NIX/Videos.md",
-    "Computing/OS/Linux/NIX/Guix/Video.md",
-    "Computing/DevOps/Containers/Containers.md"
+    "Computing/OS/Linux/NIX/NixOS/Videos.md"
   ]
 }

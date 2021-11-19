@@ -6,10 +6,15 @@ Nix is a _purely functional package manager_. This means that it treats packages
 
 where `b6gvzjyb2pg0…` is a unique identifier for the package that captures all its dependencies (it’s a cryptographic hash of the package’s build dependency graph). This enables many powerful features.
 
-[NixOS - NixOS Linux](https://nixos.org/)
-
-[NixOS Manual Introduction](https://nixos.org/manual/nix/stable/introduction.html)
-
-[Nix/Nixpkgs/NixOS · GitHub](https://github.com/NixOS)
+- [NixOS - NixOS Linux](https://nixos.org/)
+- [NixOS Manual Introduction](https://nixos.org/manual/nix/stable/introduction.html)
+- [NixOS Wiki](https://nixos.wiki/)
+- - [Nix Expression Language - NixOS Wiki](https://nixos.wiki/wiki/Nix_Expression_Language)
+- [NixOS - Nix Pills](https://nixos.org/guides/nix-pills/)
+- [Nix/Nixpkgs/NixOS · GitHub](https://github.com/NixOS)
+- [NixOS - Nixpkgs stable manual](https://nixos.org/manual/nixpkgs/stable/)
+- [NixOS - Nixpkgs unstable manual](https://nixos.org/manual/nixpkgs/unstable/)
+- [Nix Manual Stable](https://nixos.org/manual/nix/stable/)
+- [Nix Manual Unstable](https://nixos.org/manual/nix/unstable/)
 
 #nix 
