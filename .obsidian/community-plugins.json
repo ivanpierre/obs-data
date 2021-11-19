@@ -45,5 +45,7 @@
   "simple-embeds",
   "obsidian-local-images",
   "dataview",
-  "obsidian-org-mode"
+  "obsidian-org-mode",
+  "emoji-shortcodes",
+  "obsidian-git"
 ]

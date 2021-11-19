@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
-            "mode": "source"
+            "file": "Computing/OS/Linux/NIX/NixOS/NixOS.md",
+            "mode": "preview"
           }
         }
       }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "7891b7994c0c0d54",
+            "id": "4d049f2e5f7ee442",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
+                "file": "Computing/OS/Linux/NIX/NixOS/NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
+                "file": "Computing/OS/Linux/NIX/NixOS/NixOS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md"
+                "file": "Computing/OS/Linux/NIX/NixOS/NixOS.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "b7cb21aae584af8c",
   "lastOpenFiles": [
+    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
     "Computing/OS/Linux/NIX/NixOS/Tools/Makes/Makes.md",
+    "Computing/OS/Linux/NIX/NixOS/Tools/NixOps.md",
+    "Computing/OS/Linux/NIX/NixOS/Tools/Morph.md",
     "Computing/OS/Linux/NIX/NixOS/Tools/Hydra.md",
     "Computing/OS/Linux/Tools/play anime.md",
-    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
     "Computing/Services/Communication/Matrix.md",
     "README.md",
     "Untitled.md",
-    "Computing/DevOps/Kubernetes/The Kubernetes Handbook.md",
-    "Computing/OS/Linux/NIX/NixOS/Overlays.md",
-    "Computing/OS/Linux/NIX/NixOS/Videos.md"
+    "Computing/DevOps/Kubernetes/The Kubernetes Handbook.md"
   ]
 }
