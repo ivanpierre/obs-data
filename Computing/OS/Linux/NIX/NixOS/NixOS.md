@@ -9,6 +9,7 @@ where `b6gvzjyb2pg0…` is a unique identifier for the package that captures all
 - [NixOS - NixOS Linux](https://nixos.org/)
 - [NixOS Manual Introduction](https://nixos.org/manual/nix/stable/introduction.html)
 - [NixOS Wiki](https://nixos.wiki/)
+- [NixOS Discourse - NixOS community forum](https://discourse.nixos.org/)
 - [Nix Expression Language - NixOS Wiki](https://nixos.wiki/wiki/Nix_Expression_Language)
 - [NixOS - Nix Pills](https://nixos.org/guides/nix-pills/)
 - [Nix/Nixpkgs/NixOS · GitHub](https://github.com/NixOS)

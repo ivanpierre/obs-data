@@ -1,6 +1,6 @@
 # Cloud Native Computing Foundation
 
-[[Cloud Native]] Computing Foundation (CNCF) serves as the vendor-neutral home for many of the fastest-growing open source projects, including [[Kubernetes]], [[Prometheus]], and [[Envoy]].
+[[Cloud Native]] Computing Foundation (CNCF) serves as the vendor-neutral home for many of the fastest-growing open source projects, including [[Computing/DevOps/Kubernetes/Kubernetes]], [[Prometheus]], and [[Envoy]].
 
 The [[Cloud Native]] Computing Foundation (CNCF) hosts critical components of the global technology infrastructure. CNCF brings together the world’s top developers, end users, and vendors and runs the largest open source developer conferences. CNCF is part of the nonprofit Linux Foundation.
 
@@ -51,13 +51,13 @@ The projects under CNCF cover the entire lifecycle of a [[Cloud Native]] applica
 
 ## CNCF and Kubernetes
 
-For [[Kubernetes]], the [[Cloud Native]] Computing Foundation:
+For [[Computing/DevOps/Kubernetes/Kubernetes]], the [[Cloud Native]] Computing Foundation:
 
--   Provides a neutral home for the [[Kubernetes]] trademark and enforces proper usage
+-   Provides a neutral home for the [[Computing/DevOps/Kubernetes/Kubernetes]] trademark and enforces proper usage
 -   Provides license scanning of core and vendor code
 -   Offers legal guidance on patent and copyright issues
--   Creates open source learning [curriculum](https://github.com/cncf/curriculum), [training](https://www.cncf.io/certification/training/), and certification for both [[Kubernetes]] [administrators](https://www.cncf.io/certification/CKA/) (CKA) and [application developers](https://www.cncf.io/certification/ckad/) (CKAD)
+-   Creates open source learning [curriculum](https://github.com/cncf/curriculum), [training](https://www.cncf.io/certification/training/), and certification for both [[Computing/DevOps/Kubernetes/Kubernetes]] [administrators](https://www.cncf.io/certification/CKA/) (CKA) and [application developers](https://www.cncf.io/certification/ckad/) (CKAD)
 -   Manages a software conformance [working group](https://lists.cncf.io/g/cncf-k8s-conformance)
--   Actively markets [[Kubernetes]]
+-   Actively markets [[Computing/DevOps/Kubernetes/Kubernetes]]
 -   Supports ad hoc activities
 -   Sponsors conferences and meetup events.

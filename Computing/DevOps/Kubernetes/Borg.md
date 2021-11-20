@@ -1,4 +1,4 @@
-# From Borg to [[Kubernetes]]
+# From Borg to [[Computing/DevOps/Kubernetes/Kubernetes]]
 
 According to the abstract of Google's [Borg paper](https://research.google.com/pubs/pub43438.html), published in 2015,
 
@@ -6,7 +6,7 @@ According to the abstract of Google's [Borg paper](https://research.google.com/p
 
 For more than a decade, Borg has been Google's secret, running its worldwide containerized workloads in production. Services we use from Google, such as Gmail, Drive, Maps, Docs, etc., they are all serviced using Borg. 
 
-Some of the initial authors of [[Kubernetes]] were Google employees who have used Borg and developed it in the past. They poured in their valuable knowledge and experience while designing [[Kubernetes]]. Some of the features/objects of [[Kubernetes]] that can be traced back to Borg, or to lessons learned from it, are:
+Some of the initial authors of [[Computing/DevOps/Kubernetes/Kubernetes]] were Google employees who have used Borg and developed it in the past. They poured in their valuable knowledge and experience while designing [[Computing/DevOps/Kubernetes/Kubernetes]]. Some of the features/objects of [[Computing/DevOps/Kubernetes/Kubernetes]] that can be traced back to Borg, or to lessons learned from it, are:
 
 -   API servers
 -   Pods

@@ -10,4 +10,4 @@ In a system that uses RBAC, there is minimal mention of the “superuser” or t
 
 # Kubernetes Implementation Of RBAC
 
-Now that you know what RBAC is and why it needs to be used in any computer system that has valuable resources let’s see how [[Kubernetes]] implements it. But before we can discuss RBAC in Kubernetes, we need to create a user for testing.
+Now that you know what RBAC is and why it needs to be used in any computer system that has valuable resources let’s see how [[Computing/DevOps/Kubernetes/Kubernetes]] implements it. But before we can discuss RBAC in Kubernetes, we need to create a user for testing.

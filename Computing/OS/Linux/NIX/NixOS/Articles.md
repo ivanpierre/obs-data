@@ -4,4 +4,10 @@
 - [Workstation Management With Nix Flakes: Jupyter Notebook Example - DEV Community](https://dev.to/deciduously/workspace-management-with-nix-flakes-jupyter-notebook-example-2kke)
 - [Workstation Management With Nix Flakes: Build a Cmake C++ Package - DEV Community](https://dev.to/deciduously/workstation-management-with-nix-flakes-build-a-cmake-c-package-21lp)
 - [Why Learning NixOS is Difficult, and How to Fix It](https://davedellacosta.com/posts/2019-03-29-why-nixos-is-hard-and-how-to-fix.html)
+
+
+
+
+
+
 #nix
