@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Graphics/GIMP/Tutorials.md",
+            "file": "Computing/OS/Linux/NIX/NixOS/Videos.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Graphics/GIMP/Tutorials.md",
+                "file": "Computing/OS/Linux/NIX/NixOS/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Graphics/GIMP/Tutorials.md",
+                "file": "Computing/OS/Linux/NIX/NixOS/Videos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Graphics/GIMP/Tutorials.md"
+                "file": "Computing/OS/Linux/NIX/NixOS/Videos.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "294214c1bbb3c557",
   "lastOpenFiles": [
+    "Computing/OS/Linux/NIX/NixOS/Videos.md",
+    "Computing/OS/Linux/NIX/NixOS/Overlays.md",
+    "Computing/DevOps/Virtualisation/KVM/Don't Dual Boot.md",
+    "Computing/DevOps/Articles.md",
+    "Computing/DevOps/Virtualisation/Virtualisation.md",
     "Computing/Graphics/GIMP/Tutorials.md",
     "Computing/Graphics/GIMP/Remove a Background.md",
     "Computing/Services/Git/My Gits.md",
     "Computing/Services/Git/GitHub/Videos.md",
-    "Computing/Services/Git/GitHub/GitHub.md",
-    "Computing/Services/Git/GitLab/Install.md",
-    "Computing/OS/Linux/NIX/NixOS/Videos.md",
-    "Computing/OS/Linux/NIX/NixOS/Articles.md",
-    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
-    "Computing/OS/Linux/NIX/NixOS/Kubernetes.md"
+    "Computing/Services/Git/GitHub/GitHub.md"
   ]
 }

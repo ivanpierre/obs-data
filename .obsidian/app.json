@@ -32,7 +32,14 @@
     "cpu",
     "nb",
     "virtualize",
-    "Proxmox"
+    "Proxmox",
+    "Nixos",
+    "Filesystem",
+    "NixCon",
+    "DistroTube",
+    "homebrew",
+    "darwin",
+    "macOS"
   ],
   "showUnsupportedFiles": true,
   "promptDelete": false,
