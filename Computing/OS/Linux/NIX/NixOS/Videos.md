@@ -99,3 +99,11 @@ The Nix ecosystem has some really interesting tools for doing more than just rep
 - How Nix and NixOS Get So Close to Perfect
 
 [How Nix and NixOS Get So Close to Perfect - YouTube](https://www.youtube.com/watch?v=qjq2wVEpSsA)
+
+- Functional programming and Nix for reproducible, immutable infrastructure
+
+[Functional programming and Nix for reproducible, immutable infrastructure - YouTube](https://www.youtube.com/watch?v=mKXLAbrKrno)
+
+- Packaging with Nix
+
+[Packaging with Nix - YouTube](https://www.youtube.com/watch?v=Ndn5xM1FgrY)

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/OS/Linux/NIX/NixOS/Videos.md",
-            "mode": "source"
+            "file": "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/Videos.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/OS/Linux/NIX/NixOS/Videos.md",
+                "file": "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/OS/Linux/NIX/NixOS/Videos.md",
+                "file": "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/Videos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/OS/Linux/NIX/NixOS/Videos.md"
+                "file": "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/Videos.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "294214c1bbb3c557",
   "lastOpenFiles": [
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/Videos.md",
+    "Computing/Paradigms/Branchless Programming.md",
+    "Litterature/Fantasy/Tolkien/Le Silimarillon.md",
+    "Computing/Hardware/RaspBerry Pi/Pi zero/Hardware.md",
+    "Computing/Hardware/RaspBerry Pi/OSs.md",
+    "Computing/Hardware/RaspBerry Pi/Pi 4/Videos.md",
     "Computing/OS/Linux/NIX/NixOS/Videos.md",
     "Computing/OS/Linux/NIX/NixOS/Overlays.md",
     "Computing/DevOps/Virtualisation/KVM/Don't Dual Boot.md",
-    "Computing/DevOps/Articles.md",
-    "Computing/DevOps/Virtualisation/Virtualisation.md",
-    "Computing/Graphics/GIMP/Tutorials.md",
-    "Computing/Graphics/GIMP/Remove a Background.md",
-    "Computing/Services/Git/My Gits.md",
-    "Computing/Services/Git/GitHub/Videos.md",
-    "Computing/Services/Git/GitHub/GitHub.md"
+    "Computing/DevOps/Articles.md"
   ]
 }
