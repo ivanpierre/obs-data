@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "89c70a3f68cdb63c",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c448e946250ac4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DevOps/Video.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecccec2ad00086f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "001feccb1fd5df00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e665c97460210095",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "edf2084bc7bab346",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "441b245c0233adec",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac957dc4141bbeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad845a8dfa44410f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevOps/Video.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "76c448e946250ac4",
+  "lastOpenFiles": [
+    "DevOps/Video.md",
+    "DevOps/Podcasters.md",
+    "DevOps/Articles.md",
+    "OS/Chrome OS/CloudReady/CloudReady.md"
+  ]
+}

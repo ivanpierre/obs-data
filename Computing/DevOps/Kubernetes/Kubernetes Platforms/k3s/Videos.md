@@ -19,3 +19,7 @@
 - k3s -- The Lightweight Kubernetes Distribution Built for the Edge
 
 [k3s -- The Lightweight Kubernetes Distribution Built for the Edge - YouTube](https://www.youtube.com/watch?v=WYPd7i15XOg)
+
+- Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s)
+
+[Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU)
