@@ -39,7 +39,9 @@
     "DistroTube",
     "homebrew",
     "darwin",
-    "macOS"
+    "macOS",
+    "NixOps",
+    "NixOS"
   ],
   "showUnsupportedFiles": true,
   "promptDelete": false,
