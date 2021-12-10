@@ -1,4 +1,4 @@
-# Live Programming
+# Live Coding
 
 - [SuperCollider » SuperCollider](https://supercollider.github.io/)
 - Week 1: Introduction to SuperCollider - MUS 499C Fall 2019 - Audio Coding with SuperCollider

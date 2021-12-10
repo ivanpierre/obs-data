@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/DevOps/Virtualisation/ProxMox/ProxMox.md",
+            "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 228
   },
   "right": {
     "id": "9f96f3ede1d4e568",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Virtualisation/ProxMox/ProxMox.md",
+                "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Virtualisation/ProxMox/ProxMox.md",
+                "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Virtualisation/ProxMox/ProxMox.md"
+                "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "b4cf5841fb6d5999",
   "lastOpenFiles": [
-    "Computing/DevOps/Virtualisation/ProxMox/ProxMox.md",
-    "Computing/DevOps/Containers/Containers.md",
-    "Musique/Software/NoiseCraft.md",
-    "Musique/Software/Music environment.md",
-    "Computing/DevOps/Virtualisation/QuickEMU/QuickEMU.md",
-    "Computing/DevOps/Virtualisation/Virt-Manager/Videos.md",
-    "Computing/OS/Linux/MultiBoot.md",
-    "Computing/FileSystems/ZFS/Articles.md",
-    "Computing/DevOps/Containers/Software/LXC/Article.md",
-    "Computing/Hardware/Romba/Create® 2.md"
+    "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
+    "Computing/DevOps/Kubernetes/Kubernetes.md",
+    "Computing/DevOps/DevSecOps/DevSecOps.md",
+    "Computing/DevOps/infrastructure as code/infrastructure as code.md",
+    "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md",
+    "Computing/DevOps/Kubernetes/Service Mesh/eBPF.md",
+    "Computing/DevOps/Kubernetes/Service Mesh/Sidecar Model.md",
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k8s/k8s.md",
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k9s/k9s.md",
+    "Computing/Programming/Paradigms/Branchless Programming.md"
   ]
 }
