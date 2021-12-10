@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md",
+            "file": "Computing/DevOps/Kubernetes/Videos.md",
             "mode": "source"
           }
         }
@@ -64,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md",
+                "file": "Computing/DevOps/Kubernetes/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md",
+                "file": "Computing/DevOps/Kubernetes/Videos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md"
+                "file": "Computing/DevOps/Kubernetes/Videos.md"
               }
             }
           },
@@ -147,6 +146,7 @@
   },
   "active": "b4cf5841fb6d5999",
   "lastOpenFiles": [
+    "Computing/DevOps/Kubernetes/Videos.md",
     "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md",
     "Computing/Programming/Languages/Clojure/Courses/Confusion of Structs, Types, and Records.md",
     "Computing/DevOps/Kubernetes/Service Mesh/eBPF.md",
@@ -155,7 +155,6 @@
     "Computing/DevOps/Virtualisation/ProxMox/ProxMox.md",
     "Computing/DevOps/Kubernetes/Service Mesh/Sidecar Model.md",
     "Computing/DevOps/Kubernetes/Kubernetes Platforms/VMware Tanzu/VMware Tanzu.md",
-    "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md",
-    "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md"
+    "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md"
   ]
 }
