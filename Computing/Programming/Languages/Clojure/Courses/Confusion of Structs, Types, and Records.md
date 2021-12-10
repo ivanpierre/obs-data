@@ -6,4 +6,4 @@
 - defmulti is a higher level polymorphism construct than protocols that doesn't use host platform polymorphism and thus isn't as limited – e.g. host OOP can only dispatch polymorphically on instance of first parameter whereas defmulti can dispatch on any/all parameters; defmulti also has variable arity and feels like a clojure function  
 - protocols vs multimethods is an eternal debate, it doesn't matter which you default to and makes little difference for most things
 
-![No alternative text description for this image](media/No_alternative_text_description_for_this_image.jpg)
+![No alternative text description for this image](/media/No_alternative_text_description_for_this_image.jpg)

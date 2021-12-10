@@ -2,7 +2,7 @@
 
 VMware Tanzu Community Edition is a full-featured, easy-to-manage Kubernetes platform for learners and users, especially those working in small-scale or preproduction environments
 
-![main](media/TCE-logo.png)
+![main](/media/TCE-logo.png)
 
 VMware Tanzu enables you to build, run and manage modern apps on any cloud-and continuously deliver value to customers. With Vmware Tanzu, you can simplify multi-cloud operations and free developers to move faster with easy access to the right resources. VMware Tanzu enables development and operations teams to work together in new ways that deliver transformative business results.
 
@@ -14,7 +14,7 @@ Tanzu Community Edition consists of the Tanzu CLI and a select set of plugins. Y
 
 I am going to show you the procedure to install TCE in MAC but this not limited to this OS only. It can be installed in Linux, Mac & Windows.
 
-![main](media/prerequisitesmac.png)
+![main](/media/prerequisitesmac.png)
 
 Run the following in your terminal:
 
@@ -50,7 +50,7 @@ It is also recommended to prune all existing containers, volumes and images by r
 
 I can check in my docker dashboard that nothing is running and everything was cleaned out.
 
-![main](media/docker.png)
+![main](/media/docker.png)
 
 Now we are ready to initialize the Tanzu Community Edition installer interface.
 
@@ -60,21 +60,21 @@ tanzu management-cluster create --ui
 
 This command will launch a web interface locally in your computer like this:
 
-![main](media/tce-ui.png)
+![main](/media/tce-ui.png)
 
 From there we can choose where we want to deploy our workload cluster. This time I am going to deploy using Docker.
 
 You will provide the name of the cluster:
 
-![main](media/main.png)
+![main](/media/main.png)
 
 And you wil also select the Kubernetes network settings:
 
-![main](media/k8s-networking.png)
+![main](/media/k8s-networking.png)
 
 At the end you will review the configuration and then you can click on deploy the managment cluster or optionally you can deploy using the CLI command equivalent provided by the tool as you can see in the following image:
 
-![main](media/review-config.png)
+![main](/media/review-config.png)
 
 Let’s inspect what is the content of the YAML file that is going to be used for the dpeloyment of the cluster:
 
@@ -115,17 +115,17 @@ This is insteresting enough that we can think of automate these deployments usin
 
 Let’s dive in the managed cluster we are deploying to Docker.
 
-![main](media/bootstrap-cluster-create.png)
+![main](/media/bootstrap-cluster-create.png)
 
 Clusters that are deployed and managed using tanzu cluster command(s) are known as managed clusters. These clusters are deployed and managed by a Tanzu management cluster (originally deployed using tanzu management-cluster. This is the primary deployment model for clusters in the Tanzu ecosystem and is recommended for production scenarios. To bootstrap managed clusters, you first need a management cluster. This is done using the tanzu management-cluster create command. When running this command, a bootstrap cluster is created locally and is used to then create the management cluster. The following diagram shows this flow.
 
 Once the management cluster has been created, the bootstrap cluster will perform a move (aka pivot) of all management objects to the management cluster. From this point forward, the management cluster is responsible for managing itself and any new clusters you create. These new clusters, managed by the management cluster, are referred to as workload clusters. The following diagram shows this relationship end-to-end.
 
-![main](media/management-cluster-flow.png)
+![main](/media/management-cluster-flow.png)
 
 Going back to our installation procedure. This is completed after few minutes and we can now close the web browser:
 
-![main](media/installation-completed.png)
+![main](/media/installation-completed.png)
 
 Validate the management cluster started:
 
@@ -135,11 +135,11 @@ tanzu management-cluster get
 
 You should get an output like this:
 
-![main](media/manage-cluster-cli.png)
+![main](/media/manage-cluster-cli.png)
 
 Let’s also check the containers that are part of my Managed CLuster:
 
-![main](media/manage-cluster-docker.png)
+![main](/media/manage-cluster-docker.png)
 
 Capture the management cluster’s kubeconfig and take note of the command for accessing the cluster in the message, as you will use this for setting the context in the next step. In our case:
 
@@ -206,7 +206,7 @@ We can use the same managed cluster as a control plane to deploy our Kubernetes 
 
 Which is very versatil with Tanzu is you can easy install any package as a plugin provided by Tanzu. Specifically for Tanzu Community Edition these are the packages available that you can deploy into your workload cluster with one command:
 
-![main](media/main-2.png)
+![main](/media/main-2.png)
 
 ## Resources
 

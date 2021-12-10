@@ -6,7 +6,7 @@ Proxmox VE is a complete open-source platform for enterprise virtualization. Wit
 
 ## Compute, network, and storage in a single solution.
 
-[![Screenshot gallery of Proxmox VE dashboard](media/Screenshot_gallery_of_Proxmox_VE_dashboard.png)](https://proxmox.com/en/proxmox-ve#wk-32 "Proxmox VE screenshots")
+[![Screenshot gallery of Proxmox VE dashboard](/media/Screenshot_gallery_of_Proxmox_VE_dashboard.png)](https://proxmox.com/en/proxmox-ve#wk-32 "Proxmox VE screenshots")
 
 Proxmox VE is a complete, open-source server management platform for enterprise virtualization. It tightly integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage and networking functionality, on a single platform. With the integrated web-based user interface you can manage VMs and containers, high availability for clusters, or the integrated disaster recovery tools with ease.[](https://proxmox.com/en/proxmox-ve#wk-32 "Proxmox VE screenshots")
 
