@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
+            "file": "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
+                "file": "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
+                "file": "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md"
+                "file": "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md"
               }
             }
           },
@@ -146,11 +146,11 @@
   },
   "active": "b4cf5841fb6d5999",
   "lastOpenFiles": [
+    "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md",
     "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
     "Computing/DevOps/Kubernetes/Kubernetes.md",
     "Computing/DevOps/DevSecOps/DevSecOps.md",
     "Computing/DevOps/infrastructure as code/infrastructure as code.md",
-    "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md",
     "Computing/DevOps/Kubernetes/Service Mesh/eBPF.md",
     "Computing/DevOps/Kubernetes/Service Mesh/Sidecar Model.md",
     "Computing/DevOps/Kubernetes/Kubernetes Platforms/k8s/k8s.md",
