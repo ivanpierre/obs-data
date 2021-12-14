@@ -1,5 +1,9 @@
 # eBPF
 
+source: [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
+
+![](media/ogimage.png)
+
 eBPF changes this equation. It allows to dynamically extend the functionality of the Linux kernel. We have been using eBPF for Cilium to build a highly efficient network, security, and observability datapath that embeds itself directly into the Linux kernel. Applying this same concept, we can solve service mesh requirements at the kernel level as well. In fact, Cilium already implements a variety of the required concepts such as identity-based security, L3-L7 observability & authorization, encryption, and load-balancing. The missing parts are now coming to Cilium. You will find details on how to join the Cilium service mesh beta program driven by the Cilium community at the end of this blog.
 
 ![eBPF Service Mesh Architecture](/media/eBPF_Service_Mesh_Architecture.png)

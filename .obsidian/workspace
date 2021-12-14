@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/DevOps/Kubernetes/Videos.md",
+            "file": "Computing/Services/Git/GitHub/GitHub.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/Videos.md",
+                "file": "Computing/Services/Git/GitHub/GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/Videos.md",
+                "file": "Computing/Services/Git/GitHub/GitHub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Kubernetes/Videos.md"
+                "file": "Computing/Services/Git/GitHub/GitHub.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "b4cf5841fb6d5999",
   "lastOpenFiles": [
-    "Computing/DevOps/Kubernetes/Videos.md",
-    "Computing/DevOps/Cloud/Cloud Native Computing Foundation.md",
-    "Computing/Programming/Languages/Clojure/Courses/Confusion of Structs, Types, and Records.md",
-    "Computing/DevOps/Kubernetes/Service Mesh/eBPF.md",
-    "Computing/DevOps/Kubernetes/Kubernetes Architecture.md",
-    "Computing/DevOps/Kubernetes/Prometheus.md",
-    "Computing/DevOps/Virtualisation/ProxMox/ProxMox.md",
-    "Computing/DevOps/Kubernetes/Service Mesh/Sidecar Model.md",
-    "Computing/DevOps/Kubernetes/Kubernetes Platforms/VMware Tanzu/VMware Tanzu.md",
-    "Computing/DevOps/Kubernetes/Service Mesh/Service Mesh.md"
+    "Computing/Services/Git/GitHub/GitHub.md",
+    "Computing/Services/Git/GitLab/GitLab.md",
+    "Computing/Services/Git/GitLab/Renovate Bot.md",
+    "Computing/Services/Git/GitLab/Tutorial.md",
+    "Computing/Programming/Languages/C - C++/The Evolutions of Lambdas.md",
+    "Computing/AI/Machine Learning/Generative Facial Prior.md",
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/k3s.md",
+    "Computing/DevOps/Kubernetes/Kubernetes OS/k3OS/k3OS.md",
+    "Computing/DevOps/Kubernetes/Kubernetes OS/K0S/K0S.md",
+    "Computing/AI/Cours/Videos.md"
   ]
 }

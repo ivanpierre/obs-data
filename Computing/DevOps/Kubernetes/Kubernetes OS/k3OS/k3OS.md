@@ -1,8 +1,4 @@
 # k3OS
-```ccard
-type: folder_brief_live
-```
- 
 [GitHub - rancher/k3os: Purpose-built OS for Kubernetes, fully managed by Kubernetes.](https://github.com/rancher/k3os)
 
 K3s Under the Hood: Building a Product-grade Lightweight Kubernetes Distro - Darren Shepherd

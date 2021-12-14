@@ -1,0 +1,9 @@
+# # Bionicohand
+Une myohand (prothèse myoéléctrique) est destinée aux personnes amputés du membre supérieur afin de retrouver une autonomie au quotidien (vie sociale, professionnelle, transport etc.), bien que très utile, leurs fonctions restent toutefois limitées (pince en opposition).
+
+En France, certaines prothèses sont remboursées par la sécurité sociale. L’amélioration des technologies a fait apparaître des prothèses permettant plus de possibilités de mouvements (pince latérale, crochet, index etc.) et une meilleure esthétique. Ces prothèses poly-digitales ne sont pas remboursées et coûtent « un bras », de 30 000 à 70 000 euros.
+
+Le projet a pour but de fédérer une équipe autour de la construction d’une prothèse du membre supérieur à bas coûts, en utilisant des pièces standardisées et open source, facilement réparable et donc accessibles aux personnes à faibles ressources financières. Ce projet ne vient pas concurrencer les fabricants de prothèses destinées aux pays à couvertures sociales ou aux personnes à situations financières confortables. Il souhaite apporter une aide aux pays émergents n’ayant pas l’accessibilité à l’appareillage prothétique. Le projet comporte diverses motivations : la passion envers la technologie, le partage des savoirs ; le désir d’aider les autres et un mécontentement du monde dans lequel nous vivons aujourd’hui.
+
+[![description des différents élément de la prothèse](media/description_des_différents_élément_de_la_prothèse.jpg)](https://wikilab.myhumankit.org/index.php?title=File:Myohand_description.jpg "description des différents élément de la prothèse")
+- [Projets:Bionicohand - wikilab](https://wikilab.myhumankit.org/index.php?title=Projets:Bionicohand)
