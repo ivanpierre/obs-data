@@ -1,6 +1,6 @@
 # Videos
 
-- [Docker Tutorials - YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
+### Individual Videos
 - Docker Tutorial for Beginners FULL COURSE in 3 Hours
 
 [Docker Tutorial for Beginners FULL COURSE in 3 Hours - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE)
@@ -13,4 +13,7 @@
 - Understanding Docker in a visual way - Aurélie Vache
 
 [Understanding Docker in a visual way](https://www.youtube.com/watch?v=3hol91BkYHU&list=PLmw3X80dPdlyRV2EUKnFOvBACs_tcArd0 "Understanding Docker in a visual way")
+
+### Playlists
 - [Docker for Beginners - Pavan Elthepu](https://www.youtube.com/playlist?list=PLrMP04WSdCjpqUE9chyzDRr0prTjTkbLc)
+- [Docker Tutorials - LearnCode.academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
