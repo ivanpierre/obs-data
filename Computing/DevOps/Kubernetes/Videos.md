@@ -12,5 +12,5 @@
 
 [Mix : Rancher Labs courses on ](https://www.youtube.com/watch?v=FrGpJNI8na4&list=RDCMUCh5Xtp82q8wjijP8npkVTBA&start_radio=1&rv=FrGpJNI8na4&t=261)
 - [Kubernetes for Beginners - YouTube](https://www.youtube.com/playlist?list=PLrMP04WSdCjrkNYSFvFeiHrfpsSVDFMDR)
-
+- [Understanding Kubernetes in a visual way](https://www.youtube.com/watch?v=a1Uwoq1Yv6U&list=PLmw3X80dPdlzksg6X9s23LEkLMWFGGUn5 "Understanding Kubernetes in a visual way")
 #video

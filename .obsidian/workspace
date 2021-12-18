@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Services/Git/GitHub/GitHub.md",
-            "mode": "source"
+            "file": "Computing/DevOps/Containers/Software/Docker/Videos.md",
+            "mode": "preview"
           }
         }
       }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "a465fb7fc3faf277",
+            "id": "cebdd620c601514e",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Services/Git/GitHub/GitHub.md",
+                "file": "Computing/DevOps/Containers/Software/Docker/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Services/Git/GitHub/GitHub.md",
+                "file": "Computing/DevOps/Containers/Software/Docker/Videos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Services/Git/GitHub/GitHub.md"
+                "file": "Computing/DevOps/Containers/Software/Docker/Videos.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "b4cf5841fb6d5999",
   "lastOpenFiles": [
-    "Computing/Services/Git/GitHub/GitHub.md",
-    "Computing/Services/Git/GitLab/GitLab.md",
-    "Computing/Services/Git/GitLab/Renovate Bot.md",
-    "Computing/Services/Git/GitLab/Tutorial.md",
-    "Computing/Programming/Languages/C - C++/The Evolutions of Lambdas.md",
-    "Computing/AI/Machine Learning/Generative Facial Prior.md",
-    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/k3s.md",
-    "Computing/DevOps/Kubernetes/Kubernetes OS/k3OS/k3OS.md",
-    "Computing/DevOps/Kubernetes/Kubernetes OS/K0S/K0S.md",
-    "Computing/AI/Cours/Videos.md"
+    "Computing/DevOps/Containers/Software/Docker/Videos.md",
+    "Computing/DevOps/Kubernetes/etcd topology/etcd.md",
+    "Computing/DevOps/Kubernetes/Videos.md",
+    "Computing/DevOps/Containers/Software/Docker/Docker.md",
+    "Computing/DevOps/Containers/Containers.md",
+    "Computing/Programming/Languages/Virtual Machines (VM)/Programming a VM.md",
+    "Computing/OS/Linux/k3OS/k3OS.md",
+    "Computing/Programming/Languages/The Rust Programming Language/Crates.md",
+    "Computing/Programming/Languages/The Rust Programming Language/Cheat Sheet.md",
+    "Computing/Programming/Languages/The Rust Programming Language/The Rust Programming Language.md"
   ]
 }

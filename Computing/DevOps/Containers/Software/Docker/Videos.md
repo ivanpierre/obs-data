@@ -10,4 +10,7 @@
 - Top 8 Docker Best Practices for using Docker in Production
 
 [Top 8 Docker Best Practices for using Docker in Production - YouTube](https://www.youtube.com/watch?v=8vXoMqWgbQQ&t=4s)
-- [Docker for Beginners - YouTube](https://www.youtube.com/playlist?list=PLrMP04WSdCjpqUE9chyzDRr0prTjTkbLc)
+- Understanding Docker in a visual way - Aurélie Vache
+
+[Understanding Docker in a visual way](https://www.youtube.com/watch?v=3hol91BkYHU&list=PLmw3X80dPdlyRV2EUKnFOvBACs_tcArd0 "Understanding Docker in a visual way")
+- [Docker for Beginners - Pavan Elthepu](https://www.youtube.com/playlist?list=PLrMP04WSdCjpqUE9chyzDRr0prTjTkbLc)
