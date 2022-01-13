@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b4cf5841fb6d5999",
+        "id": "bcb3964b7b1108de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/DevOps/Containers/Software/Docker/Videos.md",
-            "mode": "preview"
+            "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Containers/Software/Docker/Videos.md",
+                "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Containers/Software/Docker/Videos.md",
+                "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Containers/Software/Docker/Videos.md"
+                "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md"
               }
             }
           },
@@ -144,17 +145,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "b4cf5841fb6d5999",
+  "active": "bcb3964b7b1108de",
   "lastOpenFiles": [
-    "Computing/DevOps/Containers/Software/Docker/Videos.md",
-    "Computing/DevOps/Kubernetes/etcd topology/etcd.md",
-    "Computing/DevOps/Kubernetes/Videos.md",
-    "Computing/DevOps/Containers/Software/Docker/Docker.md",
-    "Computing/DevOps/Containers/Containers.md",
-    "Computing/Programming/Languages/Virtual Machines (VM)/Programming a VM.md",
-    "Computing/OS/Linux/k3OS/k3OS.md",
-    "Computing/Programming/Languages/The Rust Programming Language/Crates.md",
-    "Computing/Programming/Languages/The Rust Programming Language/Cheat Sheet.md",
-    "Computing/Programming/Languages/The Rust Programming Language/The Rust Programming Language.md"
+    "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
+    "Computing/Cours.md",
+    "Computing/Software/Graphics/Diagrams.md",
+    "Computing/Programming/Languages/Bel/Implementations.md",
+    "Computing/Programming/Languages/Bel/Bel.md",
+    "Computing/Programming/Languages/Untitled.md",
+    "Computing/Analysis/UML/PlantUML.md",
+    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
+    "Computing/OS/Linux/NIX/NixOS/My packages.md",
+    "Computing/Programming/Languages/Clojure/Libraries/Frameworks/Fulcro RAD.md"
   ]
 }

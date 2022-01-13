@@ -1,6 +1,6 @@
 # Cloud Native Computing Foundation
 
-[[Cloud Native]] Computing Foundation (CNCF) serves as the vendor-neutral home for many of the fastest-growing open source projects, including [[Computing/DevOps/Kubernetes/Kubernetes]], [[Prometheus]], and [[Envoy]].
+[[Cloud Native]] Computing Foundation (CNCF) serves as the vendor-neutral home for many of the fastest-growing open source projects, including [[Computing/DevOps/Kubernetes/Kubernetes]], [[Computing/DevOps/Kubernetes/Monitoring/Prometheus]], and [[Envoy]].
 
 The [[Cloud Native]] Computing Foundation (CNCF) hosts critical components of the global technology infrastructure. CNCF brings together the world’s top developers, end users, and vendors and runs the largest open source developer conferences. CNCF is part of the nonprofit Linux Foundation.
 

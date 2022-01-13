@@ -52,5 +52,7 @@
   "strictLineBreaks": false,
   "attachmentFolderPath": "/media",
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
