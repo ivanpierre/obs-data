@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
-            "mode": "preview",
+            "file": "Computing/Software/Graphics/Video/Power Director.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
+                "file": "Computing/Software/Graphics/Video/Power Director.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
+                "file": "Computing/Software/Graphics/Video/Power Director.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Software/Bash/piloter un firewall en bash sous Linux.md"
+                "file": "Computing/Software/Graphics/Video/Power Director.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "bcb3964b7b1108de",
   "lastOpenFiles": [
-    "Computing/Software/Bash/piloter un firewall en bash sous Linux.md",
-    "Computing/Cours.md",
-    "Computing/Software/Graphics/Diagrams.md",
-    "Computing/Programming/Languages/Bel/Implementations.md",
-    "Computing/Programming/Languages/Bel/Bel.md",
-    "Computing/Programming/Languages/Untitled.md",
-    "Computing/Analysis/UML/PlantUML.md",
-    "Computing/OS/Linux/NIX/NixOS/NixOS.md",
-    "Computing/OS/Linux/NIX/NixOS/My packages.md",
-    "Computing/Programming/Languages/Clojure/Libraries/Frameworks/Fulcro RAD.md"
+    "Computing/Software/Graphics/Video/Power Director.md",
+    "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k9s/k9s.md",
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k8s/k8s.md",
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/k3s.md",
+    "Computing/DevOps/Kubernetes/Cluster/vcluster.md",
+    "Computing/DevOps/Kubernetes/Cluster/Cluster.md",
+    "Various.md",
+    "Computing/DevOps/Kubernetes/Kubernetes.md",
+    "Computing/DevOps/Kubernetes/Pourquoi Kubernetes ?.md"
   ]
 }

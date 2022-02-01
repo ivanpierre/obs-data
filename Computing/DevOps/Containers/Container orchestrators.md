@@ -27,9 +27,9 @@ Although we can manually maintain a couple of containers or write scripts to man
 
 Most [[Computing/DevOps/Containers/Containers]] orchestrators can:
 
--   Group hosts together while creating a [[Cluster]]
--   Schedule containers to run on hosts in the [[Cluster]] based on resources availability
--   Enable containers in a [[Cluster]] to communicate with each other regardless of the host they are deployed to in the [[Cluster]]
+-   Group hosts together while creating a [[Computing/DevOps/Kubernetes/Cluster/Cluster]]
+-   Schedule containers to run on hosts in the [[Computing/DevOps/Kubernetes/Cluster/Cluster]] based on resources availability
+-   Enable containers in a [[Computing/DevOps/Kubernetes/Cluster/Cluster]] to communicate with each other regardless of the host they are deployed to in the [[Computing/DevOps/Kubernetes/Cluster/Cluster]]
 -   Bind containers and storage resources
 -   Group sets of similar containers and bind them to load-balancing constructs to simplify access to containerized applications by creating a level of abstraction between the containers and the user
 -   Manage and optimize resource usage
