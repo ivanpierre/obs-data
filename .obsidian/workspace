@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Software/Graphics/Video/Power Director.md",
+            "file": "Various.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Software/Graphics/Video/Power Director.md",
+                "file": "Various.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Software/Graphics/Video/Power Director.md",
+                "file": "Various.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Software/Graphics/Video/Power Director.md"
+                "file": "Various.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "bcb3964b7b1108de",
   "lastOpenFiles": [
+    "Various.md",
+    "Philosophy/Religion/Islam.md",
+    "Philosophy/Religion/Judaisme.md",
+    "Philosophy/Religion/Christianisme.md",
+    "Philosophy/Religion/General.md",
+    "Philosophy/Religion/Bouddhisme.md",
     "Computing/Software/Graphics/Video/Power Director.md",
     "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
     "Computing/DevOps/Kubernetes/Kubernetes Platforms/k9s/k9s.md",
-    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k8s/k8s.md",
-    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k3s/k3s.md",
-    "Computing/DevOps/Kubernetes/Cluster/vcluster.md",
-    "Computing/DevOps/Kubernetes/Cluster/Cluster.md",
-    "Various.md",
-    "Computing/DevOps/Kubernetes/Kubernetes.md",
-    "Computing/DevOps/Kubernetes/Pourquoi Kubernetes ?.md"
+    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k8s/k8s.md"
   ]
 }
