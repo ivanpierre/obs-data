@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb3964b7b1108de",
+        "id": "10eed59e6dda3cd0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Various.md",
+            "file": "Computing/Services/Communication/Matrix.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Various.md",
+                "file": "Computing/Services/Communication/Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Various.md",
+                "file": "Computing/Services/Communication/Matrix.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Various.md"
+                "file": "Computing/Services/Communication/Matrix.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "bcb3964b7b1108de",
+  "active": "10eed59e6dda3cd0",
   "lastOpenFiles": [
-    "Various.md",
-    "Philosophy/Religion/Islam.md",
-    "Philosophy/Religion/Judaisme.md",
-    "Philosophy/Religion/Christianisme.md",
-    "Philosophy/Religion/General.md",
-    "Philosophy/Religion/Bouddhisme.md",
-    "Computing/Software/Graphics/Video/Power Director.md",
-    "Computing/DevOps/Kubernetes/Kubernetes OS/Kubernetes OS.md",
-    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k9s/k9s.md",
-    "Computing/DevOps/Kubernetes/Kubernetes Platforms/k8s/k8s.md"
+    "Computing/Services/Communication/Matrix.md",
+    "Computing/Software/NAS/TrueNAS/PLEX.md",
+    "Computing/OS/Linux/Podcasters.md",
+    "Computing/OS/Linux/systemd.md",
+    "Computing/OS/Linux/Reset password.md",
+    "Computing/OS/Linux/Build a system.md",
+    "Computing/Hardware/Computers/RaspBerry Pi/OSs.md",
+    "Computing/OS/Linux/Window Managers/Media Keys.md",
+    "Computing/Programming/Languages/The Rust Programming Language/Tutos.md",
+    "Computing/Programming/Languages/The Rust Programming Language/The Rust Programming Language.md"
   ]
 }

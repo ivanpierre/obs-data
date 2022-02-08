@@ -44,7 +44,7 @@
     "NixOS"
   ],
   "showUnsupportedFiles": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "foldHeading": true,
   "foldIndent": true,
