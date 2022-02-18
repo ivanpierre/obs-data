@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Software/File managers/Nemo/Config standard terminal.md",
+            "file": "Various.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Software/File managers/Nemo/Config standard terminal.md",
+                "file": "Various.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Software/File managers/Nemo/Config standard terminal.md",
+                "file": "Various.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Software/File managers/Nemo/Config standard terminal.md"
+                "file": "Various.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "10eed59e6dda3cd0",
   "lastOpenFiles": [
+    "Various.md",
     "Computing/Software/File managers/Nemo/Config standard terminal.md",
     "README.md",
     "Computing/Services/Communication/Matrix.md",
@@ -155,7 +156,6 @@
     "Computing/OS/Linux/systemd.md",
     "Computing/OS/Linux/Reset password.md",
     "Computing/OS/Linux/Build a system.md",
-    "Computing/Hardware/Computers/RaspBerry Pi/OSs.md",
-    "Computing/OS/Linux/Window Managers/Media Keys.md"
+    "Computing/Hardware/Computers/RaspBerry Pi/OSs.md"
   ]
 }
