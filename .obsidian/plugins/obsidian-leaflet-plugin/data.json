@@ -16,10 +16,10 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "4.8.0",
+  "previousVersion": "4.13.0",
   "version": {
     "major": 4,
-    "minor": 8,
+    "minor": 13,
     "patch": 0
   },
   "warnedAboutMapMarker": false,
@@ -30,5 +30,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {},
   "enableDraw": true,
-  "defaultUnitType": "imperial"
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 }

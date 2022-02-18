@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Computing/Software/File managers/Nemo/Config standard terminal.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computing/Software/File managers/Nemo/Config standard terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computing/Software/File managers/Nemo/Config standard terminal.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computing/Software/File managers/Nemo/Config standard terminal.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "10eed59e6dda3cd0",
   "lastOpenFiles": [
+    "Computing/Software/File managers/Nemo/Config standard terminal.md",
     "README.md",
     "Computing/Services/Communication/Matrix.md",
     "Computing/Software/NAS/TrueNAS/PLEX.md",
@@ -155,7 +156,6 @@
     "Computing/OS/Linux/Reset password.md",
     "Computing/OS/Linux/Build a system.md",
     "Computing/Hardware/Computers/RaspBerry Pi/OSs.md",
-    "Computing/OS/Linux/Window Managers/Media Keys.md",
-    "Computing/Programming/Languages/The Rust Programming Language/Tutos.md"
+    "Computing/OS/Linux/Window Managers/Media Keys.md"
   ]
 }
