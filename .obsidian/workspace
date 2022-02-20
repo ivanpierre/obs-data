@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Various.md",
-            "mode": "source",
+            "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Various.md",
+                "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Various.md",
+                "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Various.md"
+                "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "10eed59e6dda3cd0",
   "lastOpenFiles": [
-    "Various.md",
-    "Computing/Software/File managers/Nemo/Config standard terminal.md",
-    "README.md",
-    "Computing/Services/Communication/Matrix.md",
-    "Computing/Software/NAS/TrueNAS/PLEX.md",
-    "Computing/OS/Linux/Podcasters.md",
-    "Computing/OS/Linux/systemd.md",
-    "Computing/OS/Linux/Reset password.md",
+    "Computing/OS/Linux/ArchLinux/ArchLinux.md",
+    "Computing/OS/Linux/Window Managers/Media Keys.md",
     "Computing/OS/Linux/Build a system.md",
-    "Computing/Hardware/Computers/RaspBerry Pi/OSs.md"
+    "Computing/OS/Linux/Linux.md",
+    "Computing/OS/Linux/ArchLinux/Arch package guidelines.md",
+    "Computing/OS/Linux/ArchLinux/Install.md",
+    "Computing/OS/Linux/ArchLinux/Books.md",
+    "My config/ArchCraft/Files/dot config/OpenBox.md",
+    "Various.md",
+    "Computing/Software/File managers/Nemo/Config standard terminal.md"
   ]
 }
