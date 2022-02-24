@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md",
+            "file": "Computing/Services/NAS/TrueNAS.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md",
+                "file": "Computing/Services/NAS/TrueNAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md",
+                "file": "Computing/Services/NAS/TrueNAS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/OS/Linux/ArchLinux/ArchLinux.md"
+                "file": "Computing/Services/NAS/TrueNAS.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "10eed59e6dda3cd0",
   "lastOpenFiles": [
+    "Computing/Services/NAS/TrueNAS.md",
     "Computing/OS/Linux/ArchLinux/ArchLinux.md",
     "Computing/OS/Linux/Window Managers/Media Keys.md",
     "Computing/OS/Linux/Build a system.md",
@@ -155,7 +156,6 @@
     "Computing/OS/Linux/ArchLinux/Install.md",
     "Computing/OS/Linux/ArchLinux/Books.md",
     "My config/ArchCraft/Files/dot config/OpenBox.md",
-    "Various.md",
-    "Computing/Software/File managers/Nemo/Config standard terminal.md"
+    "Various.md"
   ]
 }
