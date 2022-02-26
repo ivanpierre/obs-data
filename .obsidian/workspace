@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Services/NAS/TrueNAS.md",
+            "file": "Computing/History/Internet.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Services/NAS/TrueNAS.md",
+                "file": "Computing/History/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Services/NAS/TrueNAS.md",
+                "file": "Computing/History/Internet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Services/NAS/TrueNAS.md"
+                "file": "Computing/History/Internet.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "10eed59e6dda3cd0",
   "lastOpenFiles": [
+    "Computing/History/Internet.md",
     "Computing/Services/NAS/TrueNAS.md",
     "Computing/OS/Linux/ArchLinux/ArchLinux.md",
     "Computing/OS/Linux/Window Managers/Media Keys.md",
@@ -155,7 +156,6 @@
     "Computing/OS/Linux/ArchLinux/Arch package guidelines.md",
     "Computing/OS/Linux/ArchLinux/Install.md",
     "Computing/OS/Linux/ArchLinux/Books.md",
-    "My config/ArchCraft/Files/dot config/OpenBox.md",
-    "Various.md"
+    "My config/ArchCraft/Files/dot config/OpenBox.md"
   ]
 }
