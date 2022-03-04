@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "10eed59e6dda3cd0",
+        "id": "7e4a87050818defa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Hardware/Drivers/DisplayLink splitter.md",
+            "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228
+    "width": 304
   },
   "right": {
     "id": "9f96f3ede1d4e568",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Hardware/Drivers/DisplayLink splitter.md",
+                "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Hardware/Drivers/DisplayLink splitter.md",
+                "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Hardware/Drivers/DisplayLink splitter.md"
+                "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "10eed59e6dda3cd0",
+  "active": "7e4a87050818defa",
   "lastOpenFiles": [
-    "Computing/Hardware/Drivers/DisplayLink splitter.md",
-    "Computing/History/Internet.md",
-    "Computing/Services/NAS/TrueNAS.md",
-    "Computing/OS/Linux/ArchLinux/ArchLinux.md",
-    "Computing/OS/Linux/Window Managers/Media Keys.md",
-    "Computing/OS/Linux/Build a system.md",
-    "Computing/OS/Linux/Linux.md",
-    "Computing/OS/Linux/ArchLinux/Arch package guidelines.md",
-    "Computing/OS/Linux/ArchLinux/Install.md",
-    "Computing/OS/Linux/ArchLinux/Books.md"
+    "Computing/History/Hardware/Russian Virtual Computer Museum.md",
+    "Computing/History/Hardware/NASA.md",
+    "Computing/History/Hardware/IBM.md",
+    "Computing/OS/Windows/Install Windows 11 On 13 Year Old PC Hardware.md",
+    "Computing/Services/Communication/asciinema.md",
+    "Computing/Services/File systems/ZFS/Articles.md",
+    "Computing/Services/Git/Inside the Hidden Git Folder.md",
+    "Computing/Software/Media Servers/Sonarr.md",
+    "Computing/Services/Distributed Web/IPFS.md",
+    "Computing/Software/NAS/TrueNAS/TrueNAS.md"
   ]
 }
