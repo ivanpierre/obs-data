@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md",
+            "file": "Computing/Hardware/Computers/AMD/Mounting.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md",
+                "file": "Computing/Hardware/Computers/AMD/Mounting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md",
+                "file": "Computing/Hardware/Computers/AMD/Mounting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/History/Hardware/Russian Virtual Computer Museum.md"
+                "file": "Computing/Hardware/Computers/AMD/Mounting.md"
               }
             }
           },
@@ -147,6 +147,8 @@
   },
   "active": "7e4a87050818defa",
   "lastOpenFiles": [
+    "Computing/Hardware/Computers/AMD/Mounting.md",
+    "Computing/Software/Packaging/SNAP/Enable snaps on Arch Linux.md",
     "Computing/History/Hardware/Russian Virtual Computer Museum.md",
     "Computing/History/Hardware/NASA.md",
     "Computing/History/Hardware/IBM.md",
@@ -154,8 +156,6 @@
     "Computing/Services/Communication/asciinema.md",
     "Computing/Services/File systems/ZFS/Articles.md",
     "Computing/Services/Git/Inside the Hidden Git Folder.md",
-    "Computing/Software/Media Servers/Sonarr.md",
-    "Computing/Services/Distributed Web/IPFS.md",
-    "Computing/Software/NAS/TrueNAS/TrueNAS.md"
+    "Computing/Software/Media Servers/Sonarr.md"
   ]
 }
