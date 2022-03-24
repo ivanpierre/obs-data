@@ -13,9 +13,11 @@
 ###  References
 - [TrueNAS Open Storage | ZFS for the Home to the Data Center](https://www.truenas.com/)
 
-### Overview
+### Youtube lists
 - [TrueNAS® How-To Tutorial Guides - YouTube List](https://www.youtube.com/playlist?list=PLgKBSCAcGA57juSDNE09bc7Ub491DIFVj)
+- [TrueNAS 12, playlist by Lawrence Systems](https://www.youtube.com/playlist?list=PLjGQNuuUzvmuzsNI7gCrE1-EYujXDoQhc)
 
+### Overview
 - Turn Old Computer into a Network Attached Storage (NAS) with FreeNAS! 
 
 [Turn Old Computer into a Network Attached Storage (NAS) with FreeNAS! - YouTube](https://www.youtube.com/watch?v=OUz5vC0IZX4)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Hardware/Computers/AMD/Mounting.md",
+            "file": "Computing/History/Hardware/DEC.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Hardware/Computers/AMD/Mounting.md",
+                "file": "Computing/History/Hardware/DEC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Hardware/Computers/AMD/Mounting.md",
+                "file": "Computing/History/Hardware/DEC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Hardware/Computers/AMD/Mounting.md"
+                "file": "Computing/History/Hardware/DEC.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "7e4a87050818defa",
   "lastOpenFiles": [
+    "Computing/History/Hardware/DEC.md",
+    "Computing/Software/NAS/TrueNAS/TrueNAS.md",
+    "Computing/FileSystems/ZFS/ZFS LOG and L2ARC Cache.md",
+    "Computing/FileSystems/ZFS/Articles.md",
     "Computing/Hardware/Computers/AMD/Mounting.md",
     "Computing/Software/Packaging/SNAP/Enable snaps on Arch Linux.md",
     "Computing/History/Hardware/Russian Virtual Computer Museum.md",
     "Computing/History/Hardware/NASA.md",
     "Computing/History/Hardware/IBM.md",
-    "Computing/OS/Windows/Install Windows 11 On 13 Year Old PC Hardware.md",
-    "Computing/Services/Communication/asciinema.md",
-    "Computing/Services/File systems/ZFS/Articles.md",
-    "Computing/Services/Git/Inside the Hidden Git Folder.md",
-    "Computing/Software/Media Servers/Sonarr.md"
+    "Computing/OS/Windows/Install Windows 11 On 13 Year Old PC Hardware.md"
   ]
 }
