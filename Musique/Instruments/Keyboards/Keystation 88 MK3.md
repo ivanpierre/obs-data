@@ -1,5 +1,3 @@
-# Keystation 88 MK3
-
 ### My Products
 
   
@@ -52,4 +50,30 @@ Software
 
 Join over 100,000 musicians building their skills with Melodics. Melodics is a desktop app that teaches you to play and perform with MIDI keyboards, pad controllers, and drums. Whether your just starting out or a seasoned pro looking to learn advanced techniques Melodics grows with you. It is free to download, and comes with over 60 free lessons to get you started! However because you own one of our premium Keyboard controllers you also unlock Five Exclusive Lessons to help take your skills to the next level. Its Plug and Play no setup required, You'll get something from your first 5 minutes. Take it straight to your next track or performance.
 
--   [Redeem Now](https://melodics.com/landing/partners/maudio/keystation/)77
+-   [Redeem Now](https://melodics.com/landing/partners/maudio/keystation/)
+
+##### 
+
+Software
+
+ **Pro Tools | First M-Audio Edition, 20 Avid Effects, and Avid Virtual Instruments Discontinued**
+
+  
+
+Avid has officially discontinued Pro Tools|First M-Audio Edition and its associated 20 Avid Effects and Virtual Instruments. With this change, everyone at M-Audio wants to make sure that you’re still given a great software package to continue your creative journey. Now included in your M-Audio account will be MPC Beats, a fully featured DAW, with its full collection of virtual instruments - TubeSynth, Electric, and Bassline, 80 FX plugins including the new AIR Channel Strip and Half Time, as well as 2GB of factory content with bonus F9 instruments library. For our Audio Interface users, in addition to MPC Beats we have included ReValver, a guitar amplifier, stompbox and effect modeling software. ReValver includes ValveKing® & Custom Lite Amp Modules, 3 x cabs, 3 x mics (with multiple selectable positions), and 3x effects.  
+  
+We thank you in advance for your understanding and patience.
+
+##### 
+
+Software
+
+ MPC Beats
+
+  
+
+MPC Beats is a fully featured DAW, with a full collection of virtual instruments - TubeSynth, Electric, and Bassline, 80 FX plugins including the new AIR Channel Strip and Half Time, as well as 2GB of factory content with bonus F9 instruments library.
+
+-   [MPC Beats (WIN)](https://cdn.inmusicbrands.com/akai/Beats/MPC-Beats-v2.8.3-2.8.3.3-release-Windows.zip)
+-   [MPC Beats (MAC)](https://cdn.inmusicbrands.com/akai/Beats/MPC-Beats-v2.8.3-2.8.3.3-release-Mac.zip)
+-   [Factory Library Packs](https://cdn.inmusicbrands.com/akai/b20eats/MPC%20Beats%20Producer%20Kits-1.0.2.pkg)
