@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Musique/Instruments/Keyboards/Keystation 88 MK3.md",
-            "mode": "source",
+            "file": "Musique/Theory/Couterpoint/Crash Course.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Musique/Instruments/Keyboards/Keystation 88 MK3.md",
+                "file": "Musique/Theory/Couterpoint/Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Musique/Instruments/Keyboards/Keystation 88 MK3.md",
+                "file": "Musique/Theory/Couterpoint/Crash Course.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Instruments/Keyboards/Keystation 88 MK3.md"
+                "file": "Musique/Theory/Couterpoint/Crash Course.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "7e4a87050818defa",
   "lastOpenFiles": [
+    "Musique/Theory/Couterpoint/Crash Course.md",
     "Musique/Instruments/Keyboards/Keystation 88 MK3.md",
     "Computing/History/Hardware/DEC.md",
     "Computing/Software/NAS/TrueNAS/TrueNAS.md",
@@ -155,7 +156,6 @@
     "Computing/Hardware/Computers/AMD/Mounting.md",
     "Computing/Software/Packaging/SNAP/Enable snaps on Arch Linux.md",
     "Computing/History/Hardware/Russian Virtual Computer Museum.md",
-    "Computing/History/Hardware/NASA.md",
-    "Computing/History/Hardware/IBM.md"
+    "Computing/History/Hardware/NASA.md"
   ]
 }
