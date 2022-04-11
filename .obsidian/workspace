@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Hardware/Drivers/Bluetooth Archlinux.md",
-            "mode": "preview",
+            "file": "Musique/Software/Audio editing/DORICO.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Hardware/Drivers/Bluetooth Archlinux.md",
+                "file": "Musique/Software/Audio editing/DORICO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Hardware/Drivers/Bluetooth Archlinux.md",
+                "file": "Musique/Software/Audio editing/DORICO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Hardware/Drivers/Bluetooth Archlinux.md"
+                "file": "Musique/Software/Audio editing/DORICO.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "7e4a87050818defa",
   "lastOpenFiles": [
+    "Musique/Software/Audio editing/DORICO.md",
+    "Musique/Software/Audio editing/MuScore.md",
+    "README.md",
+    "Musique/Software/Audio editing/Audio editing.md",
+    "My config/ArchCraft/Files/dot config/OpenBox.md",
     "Computing/Hardware/Drivers/Bluetooth Archlinux.md",
     "Musique/Theory/Couterpoint/Crash Course.md",
     "Musique/Instruments/Keyboards/Keystation 88 MK3.md",
     "Computing/History/Hardware/DEC.md",
-    "Computing/Software/NAS/TrueNAS/TrueNAS.md",
-    "Computing/FileSystems/ZFS/ZFS LOG and L2ARC Cache.md",
-    "Computing/FileSystems/ZFS/Articles.md",
-    "Computing/Hardware/Computers/AMD/Mounting.md",
-    "Computing/Software/Packaging/SNAP/Enable snaps on Arch Linux.md",
-    "Computing/History/Hardware/Russian Virtual Computer Museum.md"
+    "Computing/Software/NAS/TrueNAS/TrueNAS.md"
   ]
 }
