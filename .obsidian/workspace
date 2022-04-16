@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "41e6df0ded802139",
+        "id": "33af697f7877ed62",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Religion/Christianisme.md",
+            "file": "Art/Litterature/Fantasy/Tolkien/Le Silimarillon.md",
             "mode": "preview"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Religion/Christianisme.md",
+                "file": "Art/Litterature/Fantasy/Tolkien/Le Silimarillon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Religion/Christianisme.md",
+                "file": "Art/Litterature/Fantasy/Tolkien/Le Silimarillon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Religion/Christianisme.md"
+                "file": "Art/Litterature/Fantasy/Tolkien/Le Silimarillon.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "41e6df0ded802139",
+  "active": "33af697f7877ed62",
   "lastOpenFiles": [
-    "Philosophy/Religion/Christianisme.md",
-    "Musique/Software/Score editing/Score editing.md",
-    "Musique/Software/Score editing/DORICO.md",
-    "Musique/Software/Score editing/MuScore.md",
+    "Art/Litterature/Fantasy/Tolkien/Le Silimarillon.md",
     "README.md",
-    "My config/ArchCraft/Files/dot config/OpenBox.md",
+    "Various.md",
+    "Philosophy/Religion/Christianisme.md",
+    "Art/Musique/Software/Score editing/Score editing.md",
+    "Art/Musique/Software/Score editing/DORICO.md",
+    "Art/Musique/Software/Score editing/MuScore.md",
+    "My config/ArchCraft/dot config/OpenBox.md",
     "Computing/Hardware/Drivers/Bluetooth Archlinux.md",
-    "Musique/Theory/Couterpoint/Crash Course.md",
-    "Musique/Instruments/Keyboards/Keystation 88 MK3.md",
-    "Computing/History/Hardware/DEC.md"
+    "Art/Musique/Theory/Couterpoint/Crash Course.md"
   ]
 }
