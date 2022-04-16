@@ -1,4 +1,4 @@
-# Audio editing
+# Score editing
 
 - The Spirit Of Audacity Lives On In Audacium And Tenacity
 

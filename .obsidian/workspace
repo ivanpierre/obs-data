@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7e4a87050818defa",
+        "id": "41e6df0ded802139",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Musique/Software/Audio editing/DORICO.md",
-            "mode": "source",
-            "source": false
+            "file": "Philosophy/Religion/Christianisme.md",
+            "mode": "preview"
           }
         }
       }
@@ -58,7 +57,7 @@
             }
           },
           {
-            "id": "cebdd620c601514e",
+            "id": "043812ead2af9b79",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Musique/Software/Audio editing/DORICO.md",
+                "file": "Philosophy/Religion/Christianisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Musique/Software/Audio editing/DORICO.md",
+                "file": "Philosophy/Religion/Christianisme.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Musique/Software/Audio editing/DORICO.md"
+                "file": "Philosophy/Religion/Christianisme.md"
               }
             }
           },
@@ -145,17 +144,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "7e4a87050818defa",
+  "active": "41e6df0ded802139",
   "lastOpenFiles": [
-    "Musique/Software/Audio editing/DORICO.md",
-    "Musique/Software/Audio editing/MuScore.md",
+    "Philosophy/Religion/Christianisme.md",
+    "Musique/Software/Score editing/Score editing.md",
+    "Musique/Software/Score editing/DORICO.md",
+    "Musique/Software/Score editing/MuScore.md",
     "README.md",
-    "Musique/Software/Audio editing/Audio editing.md",
     "My config/ArchCraft/Files/dot config/OpenBox.md",
     "Computing/Hardware/Drivers/Bluetooth Archlinux.md",
     "Musique/Theory/Couterpoint/Crash Course.md",
     "Musique/Instruments/Keyboards/Keystation 88 MK3.md",
-    "Computing/History/Hardware/DEC.md",
-    "Computing/Software/NAS/TrueNAS/TrueNAS.md"
+    "Computing/History/Hardware/DEC.md"
   ]
 }

@@ -49,10 +49,10 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "attachmentFolderPath": "/media",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": true
 }
