@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Cours.md",
-            "mode": "source",
+            "file": "Science/Physics/On everything.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Cours.md",
+                "file": "Science/Physics/On everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Cours.md",
+                "file": "Science/Physics/On everything.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Cours.md"
+                "file": "Science/Physics/On everything.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "551a67b24eb9d4c7",
   "lastOpenFiles": [
+    "Science/Physics/On everything.md",
     "Computing/Cours.md",
     "media/Number_of_proxies.png",
     "media/No_alternative_text_description_for_this_image-1.jpg",
@@ -155,7 +156,6 @@
     "media/main-2.png",
     "media/main-1.png",
     "media/main.png",
-    "README.md",
-    "Art/Litterature/Fantasy/Tolkien/Le Silimarillon.md"
+    "README.md"
   ]
 }
