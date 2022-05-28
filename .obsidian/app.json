@@ -53,6 +53,6 @@
   "attachmentFolderPath": "/media",
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": true
 }
