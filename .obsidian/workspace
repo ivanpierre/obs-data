@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "551a67b24eb9d4c7",
+        "id": "b658e8120730300a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/Physics/On everything.md",
-            "mode": "preview",
+            "file": "Philosophy/Religion/Christianisme.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "a67873ad77949347",
+            "id": "3d5678f9eaa94245",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Physics/On everything.md",
+                "file": "Philosophy/Religion/Christianisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Physics/On everything.md",
+                "file": "Philosophy/Religion/Christianisme.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Physics/On everything.md"
+                "file": "Philosophy/Religion/Christianisme.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "551a67b24eb9d4c7",
+  "active": "b658e8120730300a",
   "lastOpenFiles": [
-    "Science/Physics/On everything.md",
-    "Computing/Cours.md",
-    "media/Number_of_proxies.png",
-    "media/No_alternative_text_description_for_this_image-1.jpg",
-    "media/No_alternative_text_description_for_this_image.jpg",
-    "media/ogimage.png",
-    "media/main-2.png",
-    "media/main-1.png",
-    "media/main.png",
-    "README.md"
+    "Philosophy/Religion/Christianisme.md",
+    "Philosophy/Religion/Judaisme.md",
+    "Philosophy/Religion/Islam.md",
+    "Philosophy/Religion/General.md",
+    "Philosophy/Religion/Bouddhisme.md",
+    "Science/Health/Diabetes/Recepies.md",
+    "www.diabetes.org/healthy-living/recipes-nutrition/meal-planning/quick-meal-ideas.md",
+    "Philosophy/Religion/Apologetics/Arguments/Fine tuning.md",
+    "Philosophy/Religion/A.md",
+    "Science/Physics/courses.md"
   ]
 }
