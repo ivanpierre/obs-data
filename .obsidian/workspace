@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Philosophy/Religion/Christianisme.md",
-            "mode": "source",
+            "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Religion/Christianisme.md",
+                "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Religion/Christianisme.md",
+                "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Religion/Christianisme.md"
+                "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md"
               }
             }
           },
