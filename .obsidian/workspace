@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
+            "file": "Computing/Programming/Languages/The Rust Programming Language/Projects/Baremetal Rust.md",
             "mode": "preview",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
+                "file": "Computing/Programming/Languages/The Rust Programming Language/Projects/Baremetal Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
+                "file": "Computing/Programming/Languages/The Rust Programming Language/Projects/Baremetal Rust.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Data Science/AI/Machine Learning/Sentient machine.md"
+                "file": "Computing/Programming/Languages/The Rust Programming Language/Projects/Baremetal Rust.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "b658e8120730300a",
   "lastOpenFiles": [
+    "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
     "Philosophy/Religion/Christianisme.md",
     "Philosophy/Religion/Judaisme.md",
     "Philosophy/Religion/Islam.md",
@@ -155,7 +156,6 @@
     "Science/Health/Diabetes/Recepies.md",
     "www.diabetes.org/healthy-living/recipes-nutrition/meal-planning/quick-meal-ideas.md",
     "Philosophy/Religion/Apologetics/Arguments/Fine tuning.md",
-    "Philosophy/Religion/A.md",
-    "Science/Physics/courses.md"
+    "Philosophy/Religion/A.md"
   ]
 }
