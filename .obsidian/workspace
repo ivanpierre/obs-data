@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Software/NAS/OpenMediaVault5.md",
+            "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Software/NAS/OpenMediaVault5.md",
+                "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Software/NAS/OpenMediaVault5.md",
+                "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Software/NAS/OpenMediaVault5.md"
+                "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "191c1abac7d652fb",
   "lastOpenFiles": [
+    "www.diabetes.org/healthy-living/recipes-nutrition/meal-planning/quick-meal-ideas.md",
+    "Science/Physics/On everything.md",
+    "Science/Physics/courses.md",
+    "Computing/My config/ArchCraft/dot config/OpenBox.md",
+    "Computing/Programming/Languages/The Rust Programming Language/The Rust Programming Language.md",
+    "Computing/OS/Linux/Window Managers/Media Keys.md",
+    "Computing/OS/Linux/Debian/Debian and Arch.md",
+    "Computing/Software/NAS/OpenMediaVault5.md",
     "Computing/Software/NAS/TrueNAS/TrueNAS.md",
-    "Computing/Software/NAS/TrueNAS/PLEX.md",
-    "Computing/Programming/Languages/The Rust Programming Language/Projects/Baremetal Rust.md",
-    "Computing/Data Science/AI/Machine Learning/Sentient machine.md",
-    "Philosophy/Religion/Christianisme.md",
-    "Philosophy/Religion/Judaisme.md",
-    "Philosophy/Religion/Islam.md",
-    "Philosophy/Religion/General.md",
-    "Philosophy/Religion/Bouddhisme.md",
-    "Science/Health/Diabetes/Recepies.md"
+    "Computing/Software/NAS/TrueNAS/PLEX.md"
   ]
 }
