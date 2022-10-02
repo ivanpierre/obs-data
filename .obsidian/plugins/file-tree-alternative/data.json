@@ -1,4 +1,5 @@
 {
+  "openViewOnStart": true,
   "ribbonIcon": true,
   "showRootFolder": false,
   "showFilesFromSubFolders": true,
@@ -19,5 +20,6 @@
   "createdYaml": false,
   "fileNameIsHeader": false,
   "folderNote": false,
-  "deleteFileOption": "trash"
+  "deleteFileOption": "trash",
+  "showFileNameAsFullPath": false
 }

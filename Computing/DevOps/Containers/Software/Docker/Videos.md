@@ -14,6 +14,11 @@
 
 [Understanding Docker in a visual way](https://www.youtube.com/watch?v=3hol91BkYHU&list=PLmw3X80dPdlyRV2EUKnFOvBACs_tcArd0 "Understanding Docker in a visual way")
 
+- Docker networking is CRAZY!! (you NEED to learn it) 
+
+[Docker networking is CRAZY!! (you NEED to learn it) - YouTube](https://www.youtube.com/watch?v=bKFMS5C4CG0)
+
 ### Playlists
 - [Docker for Beginners - Pavan Elthepu](https://www.youtube.com/playlist?list=PLrMP04WSdCjpqUE9chyzDRr0prTjTkbLc)
 - [Docker Tutorials - LearnCode.academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)
+

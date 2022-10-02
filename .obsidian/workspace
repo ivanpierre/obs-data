@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b658e8120730300a",
+        "id": "69c5f879dcb7b07d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md",
+            "file": "Computing/Network/IPv6.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "3d5678f9eaa94245",
+            "id": "6d37c30433a12d42",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md",
+                "file": "Computing/Network/IPv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md",
+                "file": "Computing/Network/IPv6.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md"
+                "file": "Computing/Network/IPv6.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 257,
     "collapsed": true
   },
-  "active": "191c1abac7d652fb",
+  "active": "69c5f879dcb7b07d",
   "lastOpenFiles": [
+    "Computing/Network/Free CCNA.md",
+    "Computing/Network/Videos.md",
+    "Computing/DevOps/Containers/Software/Docker/Videos.md",
+    "Computing/DevOps/Containers/Containers.md",
+    "Computing/DevOps/DevOps.md",
+    "Computing/Software/Interfaces/Keyboard/Keyboard mouse sharing.md",
     "www.diabetes.org/healthy-living/recipes-nutrition/meal-planning/quick-meal-ideas.md",
     "Science/Physics/On everything.md",
     "Science/Physics/courses.md",
-    "Computing/My config/ArchCraft/dot config/OpenBox.md",
-    "Computing/Programming/Languages/The Rust Programming Language/The Rust Programming Language.md",
-    "Computing/OS/Linux/Window Managers/Media Keys.md",
-    "Computing/OS/Linux/Debian/Debian and Arch.md",
-    "Computing/Software/NAS/OpenMediaVault5.md",
-    "Computing/Software/NAS/TrueNAS/TrueNAS.md",
-    "Computing/Software/NAS/TrueNAS/PLEX.md"
+    "Computing/My config/ArchCraft/dot config/OpenBox.md"
   ]
 }
