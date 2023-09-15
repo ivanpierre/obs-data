@@ -2,14 +2,6 @@
 
 [NetworkChuck](https://www.youtube.com/c/NetworkChuck/videos) All on networking and certifications
 
-- INE Live Webinar: Understanding IPv6 Addresses
-
-[INE Live Webinar: Understanding IPv6 Addresses - YouTube](https://www.youtube.com/watch?v=eSMIgJBjN-8)
-
-- IPv6 Networking Basics - Complete Free Course (3+ Hours)
-
-[IPv6 Networking Basics - Complete Free Course (3+ Hours) - YouTube](https://www.youtube.com/watch?v=NfrGNngigFU)
-
 ## [Network Direction](https://www.youtube.com/c/NetworkDirection)
 Site: [home - Network Direction](https://networkdirection.net/)
 Twitter: [@NetwrkDirection](https://twitter.com/NetwrkDirection)
