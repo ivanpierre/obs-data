@@ -25,14 +25,6 @@ The simplest and easiest to deploy service mesh for enhanced control, security a
 
 ![Open Source Load Balancer + Reverse Proxy Traefik](https://traefik.io/static/265ee8673ca712dc82db149263fa905b/89969/logos-traefik-proxy-horizontal.png)
 
-The world’s most popular cloud-native application proxy that helps developers and operations teams build, deploy and run modern microservices applications quickly and easily.
+The world’s most popular cloud-native application proxy that helps developers and operations teams build, deploy and run modern micro services applications quickly and easily.
 
 ### [Discover Traefik Proxy](https://traefik.io/traefik/)
-
-![Traefik Hub illustration](https://traefik.io/static/79eea047611a521fcf3562a822f2ffec/f005a/hub.png)
-
-![Traefik Enterprise illustration](https://traefik.io/static/197afe5f90964e6b4b2940d09c291387/f005a/enterprise.png)
-
-![Traefik mesh illustration](https://traefik.io/static/ac591786f242c3ae0edad36873450c84/f005a/mesh.png)
-
-![Traefik Proxy illustration](https://traefik.io/static/c1599491666615b42e64109a531a54c6/f005a/proxy.png)
