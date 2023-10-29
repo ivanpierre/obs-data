@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/CasaOS.md",
+                "file": "Computing/DevOps/Cloud/SaaS/OSes/CasaOS.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "d68787bd9a3572e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/CasaOS.md",
+                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/CasaOS.md",
+                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/CasaOS.md"
+                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md"
               }
             }
           },
@@ -164,6 +176,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "253d2a6e50b4b357",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -195,21 +217,42 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "3d23919e63c3ea74",
+  "active": "d68787bd9a3572e9",
   "lastOpenFiles": [
-    "Computing/DevOps/Containers/Software/Docker/Videos.md",
-    "Computing/DevOps/Containers/Software/Docker/Articles.md",
-    "Computing/DevOps/Cloud/SaaS/CasaOS.md",
-    "Computing/DevOps/Cloud/SaaS/NextCloud.md",
-    "Computing/DevOps/Video.md",
-    "Art/Musique/Software/Composition.md",
-    "Art/Musique/Software/Live Coding/Samples.md",
-    "Data/Youtube.md",
-    "Untitled.md",
-    "Computing/Network/IPv6.md",
-    "Computing/Network/Videos.md",
-    "Computing/Network/Free CCNA.md",
+    "Computing/DevOps/Cloud/SaaS/Tools/nginx.md",
+    "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
+    "Computing/DevOps/Cloud/SaaS/OSes/CasaOS.md",
+    "Computing/DevOps/Cloud/SaaS/Tools",
+    "Computing/DevOps/Cloud/SaaS/OSes/NextCloud.md",
+    "Computing/DevOps/Cloud/Cloud.md",
+    "Computing/DevOps/Cloud/PaaS/PaaS.md",
+    "Computing/DevOps/Cloud/SaaS/OSes",
+    "Computing/DevOps/infrastructure as code/infrastructure as code.md",
+    "Computing/Software/NAS/OpenMediaVault5/OpenMediaVault5.md",
+    "Computing/My config/ArchCraft/dot config/OpenBox.md",
+    "Computing/DevOps/Stacks/DevOps Stack.md",
+    "Computing/DevOps/Containers/Software/LXC/Article.md",
     "Computing/DevOps/Containers/Containers.md",
-    "Computing/DevOps/DevOps.md"
+    "Computing/DevOps/Containers/Container orchestrators.md",
+    "Computing/DevOps/Containers/Container Orchestration.md",
+    "Computing/Programming/Languages/Clojure/Macros.md",
+    "Computing/Services/Git/Inside the Hidden Git Folder.md",
+    "Computing/Software/Shell/Bash/piloter un firewall en bash sous Linux.md",
+    "media/ogimage.png",
+    "media/management-cluster-flow.png",
+    "media/manage-cluster-docker.png",
+    "media/review-config.png",
+    "media/prerequisitesmac.png",
+    "media/tce-ui.png",
+    "media/servicemesh_intro.png",
+    "Computing/History/Internet.md",
+    "Computing/Hardware/Drivers/DisplayLink splitter.md",
+    "Computing/Software/Media Servers/Sonarr.md",
+    "Computing/Services/File systems/ZFS/Articles.md",
+    "Computing/Software/Packaging/SNAP/Enable snaps on Arch Linux.md",
+    "Computing/Hardware/Computers/AMD/Mounting.md",
+    "Computing/FileSystems/ZFS/ZFS LOG and L2ARC Cache.md",
+    "Computing/History/Hardware/DEC.md",
+    "Computing/Hardware/Drivers/Bluetooth Archlinux.md"
   ]
 }
