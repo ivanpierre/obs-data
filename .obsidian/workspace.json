@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
-                "mode": "source",
+                "file": "Computing/Network/Dark Web/Videos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
+                "file": "Computing/Network/Dark Web/Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
+                "file": "Computing/Network/Dark Web/Videos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md"
+                "file": "Computing/Network/Dark Web/Videos.md"
               }
             }
           },
@@ -219,8 +219,10 @@
   },
   "active": "d68787bd9a3572e9",
   "lastOpenFiles": [
-    "Computing/DevOps/Cloud/SaaS/Tools/nginx.md",
     "Computing/DevOps/Cloud/SaaS/Tools/Traefik.md",
+    "Computing/Network/Dark Web/Videos.md",
+    "Computing/Network/Dark Web",
+    "Computing/DevOps/Cloud/SaaS/Tools/nginx.md",
     "Computing/DevOps/Cloud/SaaS/OSes/CasaOS.md",
     "Computing/DevOps/Cloud/SaaS/Tools",
     "Computing/DevOps/Cloud/SaaS/OSes/NextCloud.md",
@@ -252,7 +254,6 @@
     "Computing/Software/Packaging/SNAP/Enable snaps on Arch Linux.md",
     "Computing/Hardware/Computers/AMD/Mounting.md",
     "Computing/FileSystems/ZFS/ZFS LOG and L2ARC Cache.md",
-    "Computing/History/Hardware/DEC.md",
-    "Computing/Hardware/Drivers/Bluetooth Archlinux.md"
+    "Computing/History/Hardware/DEC.md"
   ]
 }
